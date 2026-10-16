@@ -2,8 +2,6 @@
 
 A comprehensive digital walking-tour guide to the Vatican Museums — every room, every artwork, maps, history, and visitor info.
 
-**Companion Website:** [vatican-museums-tour.pages.dev](https://vatican-museums-tour.pages.dev)
-
 ## The Tour
 
 54 galleries, 22 collections, ~7 km of exhibition route. The standard visitor path runs from ancient Egyptian, Etruscan, and Greco-Roman collections through Renaissance masterpieces (Raphael Rooms, Sistine Chapel) to Baroque and Modern art.
