@@ -15,7 +15,7 @@
           "medium": "Granite",
           "description": "Fragmented statue of the great pharaoh Ramesses II seated on a throne, from Room I's epigraphic collection.",
           "location": "Room I — Epigraphic Artefacts",
-          "image": "assets/images/sculpture/ramesses.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Egyptian_Statue_Fragment_%2848465186952%29.jpg",
           "highlight": false
         },
         {
@@ -35,7 +35,7 @@
           "medium": "Black basalt",
           "description": "Statue of Antinous, Hadrian's beloved, depicted as the god Osiris. Found at Hadrian's Villa, Tivoli.",
           "location": "Room V / Hemicycle",
-          "image": "assets/images/sculpture/osiris-antinous.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Antinous_as_Dionysus-Osiris-Vatican.jpg",
           "highlight": true
         },
         {
@@ -45,7 +45,7 @@
           "medium": "Granite",
           "description": "Eight statues of the lioness goddess Sekhmet from the Temple Precinct of Mut at Karnak, plus four more in the hemicycle. Part of Amenhotep III's funerary temple, Thebes.",
           "location": "Terrace of the Niche",
-          "image": "assets/images/sculpture/sekhmet.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Statue_of_Sekhmet%2C_Gregorian_Egyptian_Museum%2C_Vatican_Museums.jpg",
           "highlight": true
         },
         {
@@ -55,7 +55,7 @@
           "medium": "Stone",
           "description": "Statue of Queen Tuya, mother of Ramesses II, from the Gardens of Sallust collection.",
           "location": "Room V / Hemicycle",
-          "image": "assets/images/sculpture/tuya.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Statue_of_the_Queen_Tuya%2C_reign_of_Ramses_II%2C_13th_cent._BCE%2C_Vatican_Museums_%281%29_%2848759391191%29.jpg",
           "highlight": false
         },
         {
@@ -65,7 +65,7 @@
           "medium": "Marble",
           "description": "Reclining river-god of the Nile with crocodile at his feet, a Roman interpretation of the Egyptian river deity.",
           "location": "Terrace of the Niche",
-          "image": "assets/images/sculpture/nile.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Statue_of_the_Nile%2C_Gregorian_Egyptian_Museum%2C_Vatican_Museums.jpg",
           "highlight": true
         },
         {
@@ -75,7 +75,7 @@
           "medium": "Bronze, h. ~4 m",
           "description": "Colossal Roman bronze pinecone, nearly 4 meters high. Originally a fountain near the Pantheon, later in the atrium of Old St. Peter's — cited by Dante (Inferno XXXI). Moved to the Cortile della Pigna in 1608.",
           "location": "Cortile della Pigna (visible from Terrace)",
-          "image": "assets/images/sculpture/pinecone.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Cortile_della_Pigna_%28Vatican_Museums%29_September_2015-2.jpg",
           "highlight": true
         },
         {
@@ -85,7 +85,7 @@
           "medium": "Papyrus",
           "description": "The famous Egyptian funerary text — spells and formulas to guide the deceased through the afterlife.",
           "location": "Room II — Funerary Customs",
-          "image": "assets/images/sculpture/book-dead.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg",
           "highlight": false
         },
         {
@@ -95,7 +95,7 @@
           "medium": "Stone",
           "description": "Two reclining lion statues flanking the fountain, from the reign of Nectanebo II, Dynasty XXX.",
           "location": "Terrace of the Niche",
-          "image": "assets/images/sculpture/lions.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Vatican_Museums_2020_P01_Lions_of_Nectanebo_I_from_Heliopolis.jpg",
           "highlight": false
         },
         {
@@ -105,7 +105,7 @@
           "medium": "Stone",
           "description": "Statue of Udjahorresnet carrying a naos shrine — the most important historical document in the collection, from the Persian conquest period.",
           "location": "Room I — Epigraphic Artefacts",
-          "image": "assets/images/sculpture/udjahorresnet.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Museo_Gregoriano_004a.jpg",
           "highlight": false
         },
         {
@@ -115,7 +115,7 @@
           "medium": "Painted wood, h. 209 cm",
           "description": "Sarcophagus of Djedmut, singer of Amon-Ra at Karnak, early Dynasty XXII.",
           "location": "Room II — Funerary Customs",
-          "image": "assets/images/sculpture/djedmut.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sarcophagus_of_Djedmut.jpg",
           "highlight": false
         },
         {
@@ -145,7 +145,7 @@
           "medium": "Marble",
           "description": "Approximately 1,000 Roman portrait busts lining both walls of the 300m loggia — emperors, emperors' wives, philosophers, orators. A 'gallery of famous names from antiquity.'",
           "location": "Chiaramonti loggia",
-          "image": "assets/images/sculpture/busts.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/A_bust_at_Museo_Chiaramonti%2C_Vatican-6.jpg",
           "highlight": true
         },
         {
@@ -155,7 +155,7 @@
           "medium": "Marble",
           "description": "Roman copy of a Greek original showing Hercules with his infant son Telephos.",
           "location": "Chiaramonti loggia",
-          "image": "assets/images/sculpture/heracles-telephos.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Herakles_Telephos_Chiaramonti_Inv1314.jpg",
           "highlight": false
         },
         {
@@ -175,7 +175,7 @@
           "medium": "Fresco (lunettes)",
           "description": "Frescoes commemorating papal patronage and the return of Vatican works from France after the Napoleonic looting.",
           "location": "Chiaramonti loggia lunettes",
-          "image": "assets/images/galleries/canova-frescoes.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Lunetta_della_Galleria_del_Museo_Chiaramonti_-FG2.jpg",
           "highlight": false
         }
       ]
@@ -195,7 +195,7 @@
           "medium": "Marble, h. 2.03 m",
           "description": "The most famous portrait type of Emperor Augustus. Found 1863 at the Villa of Livia. Augustus in military dress (adlocutio pose), cuirass decorated with allegorical reliefs including the Parthian returning standards. Based on Polykleitos' Doryphoros pose.",
           "location": "Braccio Nuovo",
-          "image": "assets/images/sculpture/augustus.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Statue-Augustus.jpg",
           "highlight": true
         },
         {
@@ -215,7 +215,7 @@
           "medium": "Marble",
           "description": "Roman river-god reclining with the Nile's tributaries; crocodile at his feet.",
           "location": "Braccio Nuovo",
-          "image": "assets/images/sculpture/nile-braccio.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/The_Nile%2C_inv._2300_-_Braccio_Nuovo%2C_Museo_Chiaramonti_-_Vatican_Museums_-_DSC009132.jpg",
           "highlight": false
         },
         {
@@ -245,7 +245,7 @@
           "medium": "Marble, h. 208 cm",
           "description": "Trojan priest Laocoon and his sons strangled by sea serpents after he warned against the Trojan Horse. Discovered on the Esquiline Hill in 1506; purchased by Julius II. Pliny called it 'superior to all other works of painting and sculpture.' The defining masterpiece of Hellenistic pathos and anatomy.",
           "location": "Octagonal Court",
-          "image": "assets/images/sculpture/laocoon.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Laoco%C3%B6n_and_his_sons_group.jpg",
           "highlight": true
         },
         {
@@ -255,7 +255,7 @@
           "medium": "Marble, h. 224 cm",
           "description": "The god after shooting his arrow, in a pose of ideal grace and contrapposto. The benchmark of classical male beauty for 500 years; endlessly copied and quoted by Canova, Thorvaldsen, and many others.",
           "location": "Octagonal Court",
-          "image": "assets/images/sculpture/apollo.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Apollo_del_Belvedere.jpg",
           "highlight": true
         },
         {
@@ -265,7 +265,7 @@
           "medium": "Marble, h. 1.59 m",
           "description": "A powerfully seated male nude, muscles twisted in a spiral. Now identified as Ajax the Lesser contemplating suicide. Michelangelo revered it above all antiquities and used it as the model for many Sistine Chapel figures.",
           "location": "Sala delle Muse",
-          "image": "assets/images/sculpture/torso.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Torso_del_belvedere%2C_forse_aiace_telamonio_che_medita_suicidio%2C_I_sec._ac._di_apollonios%2C_forse_da_bronzo_greco_del_200-150_ac._ca_01.JPG",
           "highlight": true
         },
         {
@@ -275,7 +275,7 @@
           "medium": "Marble, h. 228 cm",
           "description": "Perseus holds the severed head of Medusa, standing in graceful contrapposto. Canova's masterpiece created after the Napoleonic looting; symbol of the restored collection.",
           "location": "Sala del Perseus",
-          "image": "assets/images/sculpture/perseus.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Perseus_by_Antonio_Canova-Vatican.jpg",
           "highlight": true
         },
         {
@@ -285,7 +285,7 @@
           "medium": "Marble",
           "description": "Ariadne abandoned on Naxos, discovered in the 16th century and long mistaken for Cleopatra. A favorite of Renaissance and Baroque artists for her pose of vulnerable sleep.",
           "location": "Gallery of the Statues",
-          "image": "assets/images/sculpture/ariadne.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sleeping_Ariadne_2.jpg",
           "highlight": true
         },
         {
@@ -295,7 +295,7 @@
           "medium": "Gilt bronze",
           "description": "Colossal bronze statue of Hercules, found near the Theatre of Pompey; a rare surviving monumental ancient bronze.",
           "location": "Sala Rotonda",
-          "image": "assets/images/sculpture/hercules.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Hercules_bronze_in_the_Vatican_Museums.jpg",
           "highlight": false
         },
         {
@@ -305,7 +305,7 @@
           "medium": "Marble",
           "description": "Over-life-size marble bust of Antinous, Hadrian's beloved, found at Palestrina; one of the finest Antinous portraits in existence.",
           "location": "Sala Rotonda",
-          "image": "assets/images/sculpture/antinous.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Braschi_Antinous.jpg",
           "highlight": false
         },
         {
@@ -325,7 +325,7 @@
           "medium": "Imperial porphyry",
           "description": "Sarcophagus of Constantina (Constance), daughter of Constantine, in imperial porphyry.",
           "location": "Greek Cross Gallery",
-          "image": "assets/images/sculpture/constance.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Monumental_Sarcophagus_of_Constance_%2849357490691%29.jpg",
           "highlight": false
         },
         {
@@ -345,7 +345,7 @@
           "medium": "Marble",
           "description": "Roman copy of Lysippus' famous athlete scraping oil from his body with a strigil — a canonical classical pose.",
           "location": "Pio-Clementino",
-          "image": "assets/images/sculpture/apoxyomenos.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Apoxyomenos_Pio-Clementino_Inv1185_n2.jpg",
           "highlight": false
         },
         {
@@ -365,7 +365,7 @@
           "medium": "Marble",
           "description": "Ancient two-horse chariot sculpture displayed in the Octagonal Court area.",
           "location": "Octagonal Court",
-          "image": "assets/images/sculpture/biga.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Musei_Vaticani_Sala_della_Biga_11042017_1.jpg",
           "highlight": false
         },
         {
@@ -375,7 +375,7 @@
           "medium": "Stone",
           "description": "Epitaph of Lucius Cornelius Scipio Barbatus — an important early Latin inscription on a sarcophagus.",
           "location": "Pio-Clementino",
-          "image": "assets/images/sculpture/scipio.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Sarcophagus_of_Lucius_Cornelius_Scipio_Barbatus%2C_280_BC%2C_General_of_Third_Samnite_War_%28Consul_in_298_BC%29_%2848465463042%29.jpg",
           "highlight": false
         },
         {
@@ -405,7 +405,7 @@
           "medium": "Gold, silver, bronze, ivory",
           "description": "Tomb discovered intact in 1836 at Cerveteri — the richest Etruscan tomb ever found. Jewels including a spectacular pectoral, large fibula, bracelets, necklace; silver vessels including oinochoe, hemispherical cup, patera, skyphos, amphora; bronze funerary bed; three restored carts; shields.",
           "location": "Room II",
-          "image": "assets/images/galleries/regolini-galassi.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Grande_fibula_d%27oro_con_staffa_a_disco%2C_da_tomba_regolini-galassi_di_cerveteri%2C_675-650_ac._ca.JPG",
           "highlight": true
         },
         {
@@ -415,7 +415,7 @@
           "medium": "Bronze",
           "description": "A masterpiece of Etruscan bronze work — a statuette of a warrior (Mars) with a helmet, originally holding a shield and spear. Found in Todi in 1835.",
           "location": "Gregorian Etruscan Museum",
-          "image": "assets/images/sculpture/mars-todi.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/0_Mars_de_Todi_-_Museo_Gregoriano_Etruscano_%284%29.jpg",
           "highlight": true
         },
         {
@@ -685,7 +685,7 @@
           "medium": "Fresco, 500 x 770 cm",
           "description": "The most famous fresco of the High Renaissance: ancient philosophers gathered in grand imaginary classical architecture. Plato (pointing upward, modeled on Leonardo) and Aristotle (pointing earthward) at the center; Pythagoras, Euclid, Heraclitus (portrait of Michelangelo), Ptolemy, Zoroaster. Raphael painted himself into the group (far right, beside Ptolemy).",
           "location": "Stanza della Segnatura, East wall",
-          "image": "assets/images/raphael/school-athens.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
           "highlight": true
         },
         {
@@ -695,7 +695,7 @@
           "medium": "Fresco, 500 x 770 cm",
           "description": "Heaven and earth gather around the Eucharist: the Trinity above, Mary, John the Baptist, martyrs, prophets; below, the Church Militant — saints, doctors, and scholars in animated discussion. A theology of the Eucharist in pictorial form.",
           "location": "Stanza della Segnatura, West wall",
-          "image": "assets/images/raphael/disputation.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Disputa_del_Sacramento_%28Rafael%29.jpg",
           "highlight": true
         },
         {
@@ -705,7 +705,7 @@
           "medium": "Fresco",
           "description": "Apollo playing the lyre on Mount Parnassus, surrounded by the nine Muses and poets (Homer, Virgil, Dante, Petrarch) — the domain of poetry and inspiration.",
           "location": "Stanza della Segnatura, North wall",
-          "image": "assets/images/raphael/parnassus.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Rafael_-_El_Parnaso_%28Estancia_del_Sello%2C_Roma%2C_1511%29.jpg",
           "highlight": true
         },
         {
@@ -725,7 +725,7 @@
           "medium": "Fresco",
           "description": "The four branches of knowledge as personified in medallions, with scenes of Adam and Eve, The Judgment of Solomon, Urania, The Flaying of Marsyas.",
           "location": "Stanza della Segnatura, Ceiling",
-          "image": "assets/images/raphael/tondi.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Raffael_Stanza_della_Segnatura.jpg",
           "highlight": false
         },
         {
@@ -735,7 +735,7 @@
           "medium": "Fresco",
           "description": "Angels drive the profane Heliodorus from the Temple of Jerusalem, watched from the left by Julius II carried in by Swiss Guard. Dynamic, theatrical composition — a departure from the serene Segnatura style.",
           "location": "Stanza di Eliodoro, West wall",
-          "image": "assets/images/raphael/heliodorus.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Raphael_-_The_Expulsion_of_Heliodorus_from_the_Temple.jpg",
           "highlight": true
         },
         {
@@ -745,7 +745,7 @@
           "medium": "Fresco",
           "description": "The 1263 miracle of the bleeding Host at Bolsena, confirming the doctrine of Transubstantiation for a doubting Bohemian priest. Julius II kneels at the altar (lower right).",
           "location": "Stanza di Eliodoro, East wall",
-          "image": "assets/images/raphael/bolsena.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Raphael_-_The_Mass_at_Bolsena.jpg",
           "highlight": true
         },
         {
@@ -765,7 +765,7 @@
           "medium": "Fresco",
           "description": "Pope Leo I turns back Attila the Hun in 452, with Sts. Peter and Paul appearing in the sky bearing swords. Portrait of Leo X as the cardinal in the procession.",
           "location": "Stanza di Eliodoro, South wall",
-          "image": "assets/images/raphael/leo-attila.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Raphael_-_The_Meeting_of_Leo_the_Great_and_Attila.jpg",
           "highlight": true
         },
         {
@@ -775,7 +775,7 @@
           "medium": "Fresco",
           "description": "Pope Leo IV extinguishes the 847 fire in the Borgo with the sign of the cross from the Loggia of Blessings. Raphael's design, executed by Giulio Romano.",
           "location": "Stanza dell'Incendio del Borgo, West wall",
-          "image": "assets/images/raphael/borgo.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Raphael_-_Fire_in_the_Borgo.jpg",
           "highlight": true
         },
         {
@@ -795,7 +795,7 @@
           "medium": "Fresco",
           "description": "Leo III crowns Charlemagne Emperor on Christmas Day, 800 — the foundation of the Holy Roman Empire.",
           "location": "Stanza dell'Incendio del Borgo, South wall",
-          "image": "assets/images/raphael/charlemagne.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Raphael_-_Coronation_of_Charlemagne.jpg",
           "highlight": false
         },
         {
@@ -805,7 +805,7 @@
           "medium": "Fresco",
           "description": "Leo III purging himself of false accusations before Charlemagne, 800.",
           "location": "Stanza dell'Incendio del Borgo, North wall",
-          "image": "assets/images/raphael/leo-oath.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Raphael_-_Oath_of_Leo_III.jpg",
           "highlight": false
         },
         {
@@ -815,7 +815,7 @@
           "medium": "Fresco",
           "description": "Constantine sees the cross with the sign 'In hoc signo vinces' before the Battle of the Milvian Bridge.",
           "location": "Sala di Costantino, North wall",
-          "image": "assets/images/raphael/vision-cross.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/School_of_Raphael_-_Vision_of_the_Cross.jpg",
           "highlight": false
         },
         {
@@ -825,7 +825,7 @@
           "medium": "Fresco",
           "description": "Constantine's victory over Maxentius, 312 CE — the triumph of Christianity over paganism.",
           "location": "Sala di Costantino, West wall",
-          "image": "assets/images/raphael/milvian.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Giulio_Romano_-_The_Battle_of_the_Milvian_Bridge.jpg",
           "highlight": false
         },
         {
@@ -835,7 +835,7 @@
           "medium": "Fresco",
           "description": "Constantine baptized by Pope Sylvester I in the Lateran. Sylvester has the features of Pope Clement VII.",
           "location": "Sala di Costantino, East wall",
-          "image": "assets/images/raphael/baptism.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Giannfrancesco_Penni_-_Baptism_of_Constantine.jpg",
           "highlight": false
         },
         {
@@ -845,7 +845,7 @@
           "medium": "Fresco",
           "description": "The forged 'Donation' by which Constantine supposedly granted Rome and the West to the Pope — a key text of papal territorial claims.",
           "location": "Sala di Costantino, South wall",
-          "image": "assets/images/raphael/donation.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/School_of_Raphael_-_Donation_of_Rome.jpg",
           "highlight": false
         }
       ]
@@ -865,7 +865,7 @@
           "medium": "Fresco (ceiling)",
           "description": "The iconic near-touching hands of God and Adam; Eve watches from beneath God's cloak. Perhaps the most famous image in Western art, painted by Michelangelo as part of the Genesis ceiling cycle.",
           "location": "Ceiling, central panel 4",
-          "image": "assets/images/sistine/creation-adam.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg",
           "highlight": true
         },
         {
@@ -875,7 +875,7 @@
           "medium": "Fresco (ceiling)",
           "description": "God divides light from the void; the final narrative panel painted, with God in dynamic contrapposto.",
           "location": "Ceiling, central panel 1 (nearest altar)",
-          "image": "assets/images/sistine/light-darkness.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Michelangelo%2C_Separation_of_Light_from_Darkness_02.jpg",
           "highlight": false
         },
         {
@@ -885,7 +885,7 @@
           "medium": "Fresco (ceiling)",
           "description": "God creates the luminaries and vegetation, depicted in two movements of the same figure.",
           "location": "Ceiling, central panel 2",
-          "image": "assets/images/sistine/sun-moon.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Michelangelo%2C_Creation_of_the_Sun%2C_Moon%2C_and_Plants_01.jpg",
           "highlight": false
         },
         {
@@ -905,7 +905,7 @@
           "medium": "Fresco (ceiling)",
           "description": "Eve emerges from Adam's side, hands raised in reverence.",
           "location": "Ceiling, central panel 5",
-          "image": "assets/images/sistine/eve.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Michelangelo%2C_Creation_of_Eve_01.jpg",
           "highlight": false
         },
         {
@@ -915,7 +915,7 @@
           "medium": "Fresco (ceiling)",
           "description": "Temptation by the serpent and the expulsion combined in one panel — two moments in the same frame.",
           "location": "Ceiling, central panel 6",
-          "image": "assets/images/sistine/fall.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Michelangelo%2C_Fall_and_Expulsion_from_Garden_of_Eden_00.jpg",
           "highlight": false
         },
         {
@@ -925,7 +925,7 @@
           "medium": "Fresco (ceiling)",
           "description": "Noah offers thanksgiving sacrifice after the Flood.",
           "location": "Ceiling, central panel 7",
-          "image": "assets/images/sistine/noah-sacrifice.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Michelangelo%2C_Sacrifice_of_Noah_01.jpg",
           "highlight": false
         },
         {
@@ -935,7 +935,7 @@
           "medium": "Fresco (ceiling)",
           "description": "Humanity perishes in the Flood; the ark floats in the background. A vortex of drowning figures.",
           "location": "Ceiling, central panel 8",
-          "image": "assets/images/sistine/flood.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/El_Diluvio.jpg",
           "highlight": false
         },
         {
@@ -945,7 +945,7 @@
           "medium": "Fresco (ceiling)",
           "description": "Noah drunk, mocked by his sons — human weakness in the chosen patriarch.",
           "location": "Ceiling, central panel 9",
-          "image": "assets/images/sistine/noah-drunk.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Michelangelo%2C_Drunkenness_of_Noah_00.jpg",
           "highlight": false
         },
         {
@@ -955,7 +955,7 @@
           "medium": "Fresco (spandrels)",
           "description": "Seated on thrones: Jonah, Jeremiah, Persian Sibyl, Ezekiel, Erythraean Sibyl, Joel, Zechariah, Delphic Sibyl, Isaiah, Cumaean Sibyl, Daniel, Libyan Sibyl.",
           "location": "Ceiling spandrels",
-          "image": "assets/images/sistine/prophets.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Sistine_Chapel_ceiling_02_%28brightened%29.jpg",
           "highlight": true
         },
         {
@@ -965,7 +965,7 @@
           "medium": "Fresco",
           "description": "The salvation of Israel: The Brazen Serpent, The Crucifixion of Haman (Esther), David and Goliath, Judith and Holofernes.",
           "location": "Ceiling corners",
-          "image": "assets/images/sistine/pendentives.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Sistine_Chapel_ceiling_02_%28brightened%29.jpg",
           "highlight": false
         },
         {
@@ -975,7 +975,7 @@
           "medium": "Fresco",
           "description": "Twenty athletic nude youths framing the five smaller central scenes, each pair enclosing a medallion. Represent the perfection of humanity or angels; a pattern book for later artists.",
           "location": "Ceiling, around central panels",
-          "image": "assets/images/sistine/ignudi.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Sistine_Chapel_ceiling_02_%28brightened%29.jpg",
           "highlight": false
         },
         {
@@ -985,7 +985,7 @@
           "medium": "Fresco (lunettes and spandrels)",
           "description": "14 lunettes above the windows plus 8 spandrels above them, depicting 40 generations from Abraham to Jesse/David.",
           "location": "Ceiling lunettes",
-          "image": "assets/images/sistine/ancestors.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Sistine_Chapel_ceiling_02_%28brightened%29.jpg",
           "highlight": false
         },
         {
@@ -995,7 +995,7 @@
           "medium": "Fresco, ~200 x 10 m",
           "description": "Christ in glory at the center, surrounded by Mary, apostles, martyrs. The saved rise on the left; the damned are dragged to hell on the right. Charon ferries souls (from Dante); Minos judges. Michelangelo painted his own face onto the flayed skin held by St. Bartholomew.",
           "location": "Altar wall",
-          "image": "assets/images/sistine/last-judgment.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
           "highlight": true
         },
         {
@@ -1005,7 +1005,7 @@
           "medium": "Fresco",
           "description": "Christ baptized by John in the Jordan — the first fresco on the north wall (Life of Christ cycle).",
           "location": "North wall",
-          "image": "assets/images/sistine/baptism.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pietro_Perugino_-_Baptism_of_Christ_-_Sistine_Chapel_-_cat13a.jpg",
           "highlight": false
         },
         {
@@ -1015,7 +1015,7 @@
           "medium": "Fresco",
           "description": "Botticelli's masterpiece in the chapel: the killing of the Egyptian, defending Jethro's daughters, the Burning Bush.",
           "location": "South wall",
-          "image": "assets/images/sistine/trials-moses.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Sandro_Botticelli_-_The_Trials_and_Calling_of_Moses_%28detail%29_-_WGA2741.jpg",
           "highlight": true
         },
         {
@@ -1025,7 +1025,7 @@
           "medium": "Fresco",
           "description": "Christ tested by the devil; temple pinnacle scene.",
           "location": "North wall",
-          "image": "assets/images/sistine/temptations.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sandro_Botticelli_-_Three_Temptations_of_Christ_-_WGA2755.jpg",
           "highlight": false
         },
         {
@@ -1035,7 +1035,7 @@
           "medium": "Fresco",
           "description": "Christ calls the first apostles by the Sea of Galilee.",
           "location": "North wall",
-          "image": "assets/images/sistine/calling.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ghirlandaio%2C_Domenico_-_Calling_of_the_Apostles_-_1481.jpg",
           "highlight": false
         },
         {
@@ -1045,7 +1045,7 @@
           "medium": "Fresco",
           "description": "'You are Peter, and on this rock I will build my church' — Christ gives the keys to Peter.",
           "location": "North wall",
-          "image": "assets/images/sistine/keys.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Perugino_-_Entrega_de_las_llaves_a_San_Pedro_%28Capilla_Sixtina%2C_1481-82%29.jpg",
           "highlight": false
         },
         {
@@ -1055,7 +1055,7 @@
           "medium": "Fresco",
           "description": "Israel escapes Egypt; Pharaoh's army overwhelmed by the waters.",
           "location": "South wall",
-          "image": "assets/images/sistine/red-sea.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Crossing-of-the-red-sea_02.JPG",
           "highlight": false
         },
         {
@@ -1075,7 +1075,7 @@
           "medium": "Fresco",
           "description": "The rebel priests swallowed by the earth — a dramatic composition of divine punishment.",
           "location": "South wall",
-          "image": "assets/images/sistine/korah.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Botticcelli%2C_Sandro_-_The_Punishment_of_Korah_and_the_Stoning_of_Moses_and_Aaron_-_1481-82.jpg",
           "highlight": false
         },
         {
@@ -1085,7 +1085,7 @@
           "medium": "Fresco",
           "description": "Moses' final address and death on Mount Nebo — powerful figures in dramatic landscape.",
           "location": "South wall",
-          "image": "assets/images/sistine/moses-death.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Signorelli%2C_Luca_-_Moses%27s_Testament_and_Death_-_1481-82.jpg",
           "highlight": false
         },
         {
@@ -1095,7 +1095,7 @@
           "medium": "Fresco",
           "description": "Christ delivers the Beatitudes to the crowds.",
           "location": "North wall",
-          "image": "assets/images/sistine/sermon.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Cosimo_Rosselli_Sermone_della_Montagna.jpg",
           "highlight": false
         },
         {
@@ -1105,7 +1105,7 @@
           "medium": "Fresco",
           "description": "Combines farewell to Jethro, return to Egypt, circumcision of Moses' son.",
           "location": "South wall",
-          "image": "assets/images/sistine/journey.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Perugino%2C_Viaggio_di_Mos%C3%A8_in_Egitto_02.jpg",
           "highlight": false
         },
         {
@@ -1115,7 +1115,7 @@
           "medium": "Marble",
           "description": "The marble screen dividing the chapel into sanctuary and nave, surmounted by ornate candlesticks and the papal coat of arms of Sixtus IV.",
           "location": "Center of chapel",
-          "image": "assets/images/sistine/transenna.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Sistina-interno.jpg",
           "highlight": false
         },
         {
@@ -1145,7 +1145,7 @@
           "medium": "Tempera on wood, central panel 178 x 89 cm",
           "description": "Commissioned by Cardinal Jacopo Stefaneschi for Old St. Peter's. Painted on both sides: front — Christ enthroned with the Crucifixion of St. Peter and Martyrdom of St. Paul; back — St. Peter enthroned holding the model of the triptych. A supreme Giotto work.",
           "location": "Room II",
-          "image": "assets/images/pinacoteca/stefaneschi.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Giotto._The_Stefaneschi_Triptych_%28verso%29_c.1330_220x245cm._Pinacoteca%2C_Vatican..jpg",
           "highlight": true
         },
         {
@@ -1155,7 +1155,7 @@
           "medium": "Tempera on wood",
           "description": "Fra Angelico's luminous devotional panels depicting the life of St. Nicholas — golden, radiant, and deeply spiritual.",
           "location": "Room III",
-          "image": "assets/images/pinacoteca/angelico.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Angelico_-_The_Story_of_St_Nicholas%2C_1447-48.jpg",
           "highlight": false
         },
         {
@@ -1165,7 +1165,7 @@
           "medium": "Fresco transferred to canvas",
           "description": "The great fresco from the Vatican Library — portrait group including Cardinal Giuliano della Rovere (future Julius II). A masterpiece of Quattrocento perspective and portraiture.",
           "location": "Room IV",
-          "image": "assets/images/pinacoteca/melozzo.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Melozzo_da_Forli%2C_Pope_Sixtus_IV_Appointing_Bartolomeo_Platina_to_the_Prefectory_of_the_Vatican_Library%2C_1477%3B_Vatican_Museums_%282%29_%2848758616558%29.jpg",
           "highlight": true
         },
         {
@@ -1175,7 +1175,7 @@
           "medium": "Tempera on wood",
           "description": "A serene devotional panel showing the Madonna enthroned with Saints Dominic and Catherine of Siena.",
           "location": "Room III",
-          "image": "assets/images/pinacoteca/angelico-madonna.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Angelico_-_Virgin_and_Child_with_Sts_Dominic_and_Catherine_of_Alexandria_-_Pinacoteca_Vaticana.jpeg",
           "highlight": false
         },
         {
@@ -1185,7 +1185,7 @@
           "medium": "Oil on wood, 410 x 279 cm",
           "description": "Raphael's final masterpiece: two scenes in one canvas — Christ blazing on Mount Tabor above, the apostles failing to heal the possessed boy below. Left unfinished at his death (1520). Arguably the most influential altarpiece of the High Renaissance.",
           "location": "Room VIII",
-          "image": "assets/images/pinacoteca/transfiguration.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Transfiguration_Raphael.jpg",
           "highlight": true
         },
         {
@@ -1195,7 +1195,7 @@
           "medium": "Oil on canvas transferred from wood",
           "description": "The Madonna and Child with saints and a kneeling donor (Sigismondo de' Conti), set against the town of Foligno. Painted for the high altar of Santa Maria in Aracoeli.",
           "location": "Room VIII",
-          "image": "assets/images/pinacoteca/madonna-foligno.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Madonna_di_Foligno_%28Raphael%29_September_2015-1a.jpg",
           "highlight": false
         },
         {
@@ -1205,7 +1205,7 @@
           "medium": "Oil on canvas transferred from wood",
           "description": "Christ crowns the Virgin Mary in a celestial mandorla, surrounded by angels — an early Raphael masterpiece from his Florentine period.",
           "location": "Room VIII",
-          "image": "assets/images/pinacoteca/coronation.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Pala_degli_Oddi_%28Raphael%29_September_2015-1a.jpg",
           "highlight": false
         },
         {
@@ -1215,7 +1215,7 @@
           "medium": "Oil on wood, unfinished",
           "description": "The only Leonardo in Rome — an unfinished panel revealing his working method. A gaunt, kneeling Jerome beating his chest with a stone, lion at his feet, underdrawing visible.",
           "location": "Room IX",
-          "image": "assets/images/pinacoteca/leonardo.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Leonardo_da_Vinci_%E2%80%94_Jerome.jpg",
           "highlight": true
         },
         {
@@ -1225,7 +1225,7 @@
           "medium": "Oil on wood",
           "description": "Venetian colorism in a Pietà — the cimasa of the Pesaro Altarpiece, showing Christ's body mourned by the Virgin and St. John.",
           "location": "Room IX",
-          "image": "assets/images/pinacoteca/bellini.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Pala_di_pesaro_08%2C_piet%C3%A0%2C_pinacoteca_vaticana.jpg",
           "highlight": false
         },
         {
@@ -1255,7 +1255,7 @@
           "medium": "Oil on canvas",
           "description": "Late Renaissance tenderness and chromatic warmth — the Madonna offers cherries to the Christ Child.",
           "location": "Room XI",
-          "image": "assets/images/pinacoteca/barocci.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Titian_-_Madonna_of_the_Cherries_-_WGA22746.jpg",
           "highlight": false
         },
         {
@@ -1265,7 +1265,7 @@
           "medium": "Oil on canvas, 300 x 205 cm",
           "description": "Christ lowered onto a marble slab that juts into the viewer's space; harsh light, straining hands, the diagonal uniting altar and tomb. Defined Baroque naturalism. Commissioned for the church of Santa Maria in Vallicella.",
           "location": "Room XII",
-          "image": "assets/images/pinacoteca/caravaggio.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/The_Entombment_of_Christ-Caravaggio_%28c.1602-3%29.jpg",
           "highlight": true
         },
         {
@@ -1275,7 +1275,7 @@
           "medium": "Oil on canvas",
           "description": "The brutal martyrdom of St. Erasmus, wound on a windlass — Poussin's classical French Baroque at its most disciplined and dramatic.",
           "location": "Room XII",
-          "image": "assets/images/pinacoteca/poussin.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Nicolas_Poussin_-_Le_Martyre_de_Saint_%C3%89rasme.jpg",
           "highlight": false
         },
         {
@@ -1285,7 +1285,7 @@
           "medium": "Oil on canvas",
           "description": "St. Jerome receiving the Eucharist on his deathbed — a Baroque masterpiece of devotional intensity and dramatic lighting.",
           "location": "Room XII",
-          "image": "assets/images/pinacoteca/domenichino.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/LastCommunion.jpg",
           "highlight": false
         },
         {
@@ -1305,7 +1305,7 @@
           "medium": "Oil on canvas",
           "description": "Elegant Regency state portrait of George IV, showing Lawrence's mastery of aristocratic portraiture.",
           "location": "Room XV",
-          "image": "assets/images/pinacoteca/lawrence.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sir_Thomas_Lawrence_-_King_George_IV_as_Prince_Regent_in_Garter_Robes_-_MV.40448_-_Pinacoteca_Vaticana.jpg",
           "highlight": false
         },
         {
@@ -1315,7 +1315,7 @@
           "medium": "Oil on canvas",
           "description": "St. Peter crucified upside down — Reni's classical Baroque composition of dramatic simplicity.",
           "location": "Room XII",
-          "image": "assets/images/pinacoteca/reni.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Vatican_Museums_2020_P37_Guido_Reni_Crucifixion_of_Saint_Peter.jpg",
           "highlight": false
         },
         {
@@ -1325,7 +1325,7 @@
           "medium": "Oil on canvas",
           "description": "The evangelist Matthew with his angel — a Reni masterpiece combining grace and Baroque dynamism.",
           "location": "Room XII",
-          "image": "assets/images/pinacoteca/reni-matthew.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Guido_Reni_-_St_Matthew_and_the_Angel.jpg",
           "highlight": false
         }
       ]
@@ -1555,7 +1555,7 @@
           "medium": "Metal and stone, conical geometry",
           "description": "A double helix — two separate ramps so ascending and descending visitors never cross. Encircles a ~15 meter diameter stairwell with a clear central void. Shallow incline (stepped ramp, not a true staircase); ornately worked metal balustrade. All visitors exit via this route. Often compared to Frank Lloyd Wright's Guggenheim (20 years earlier).",
           "location": "Exit (end of visitor route)",
-          "image": "assets/images/galleries/staircase.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vatican_Museums_Spiral_Staircase_Looking_Up_2012.jpg",
           "highlight": true
         },
         {
@@ -1565,7 +1565,7 @@
           "medium": "Stone",
           "description": "The original double spiral in a square tower by Donato Bramante, inside the Pio-Clementino Museum.",
           "location": "Pio-Clementino Museum",
-          "image": "assets/images/galleries/bramante-original.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vatican_Museums_Spiral_Staircase_Looking_Up_2012.jpg",
           "highlight": false
         }
       ]
@@ -1585,7 +1585,7 @@
           "medium": "Fresco",
           "description": "The chapel's fresco cycle depicts the life of the first Christian martyr, St. Stephen, with luminous colors and delicate compositions.",
           "location": "Niccoline Chapel",
-          "image": "assets/images/sistine/niccolina-stephen.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/St._Peter_Niccoline_Chapel.jpg",
           "highlight": false
         },
         {
@@ -1595,7 +1595,7 @@
           "medium": "Fresco",
           "description": "The life of St. Lawrence, deacon and martyr, depicted with Fra Angelico's characteristic grace and luminous color.",
           "location": "Niccoline Chapel",
-          "image": "assets/images/sistine/niccolina-lawrence.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/St._Peter_Niccoline_Chapel.jpg",
           "highlight": false
         }
       ]

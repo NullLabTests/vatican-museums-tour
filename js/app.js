@@ -36,6 +36,7 @@ function renderCollections(collections) {
           ${col.artworks.map(art => `
             <div class="artwork-card${art.highlight ? ' highlight' : ''}" data-search="${(art.title + ' ' + art.artist + ' ' + art.description + ' ' + art.location).toLowerCase()}">
               <div class="image-wrapper">
+                <img src="${art.image}" alt="${art.title}" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('img-failed')">
                 <div class="image-placeholder">
                   <span>${art.title}<br>${art.artist}</span>
                 </div>
