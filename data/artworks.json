@@ -1,0 +1,1604 @@
+{
+  "collections": [
+    {
+      "id": "museo-gregoriano-egizio",
+      "name": "Museo Gregoriano Egizio",
+      "italian_name": "Gregorian Egyptian Museum",
+      "description": "Founded 1839 by Gregory XVI, this museum houses one of the world's most important collections of Egyptian antiquities outside Cairo. Most objects were already in Rome since antiquity — from the Gardens of Sallust, Hadrian's Villa at Tivoli, and Roman Egypt. Nine rooms plus a hemicycle and Terrace of the Niche.",
+      "period": "Ancient Egypt (c. 2600 BCE – 600 CE)",
+      "room_number": 1,
+      "artworks": [
+        {
+          "title": "Ramesses II Enthroned",
+          "artist": "Unknown (Egyptian)",
+          "date": "c. 1279–1213 BCE",
+          "medium": "Granite",
+          "description": "Fragmented statue of the great pharaoh Ramesses II seated on a throne, from Room I's epigraphic collection.",
+          "location": "Room I — Epigraphic Artefacts",
+          "image": "assets/images/sculpture/ramesses.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Mummy with Yellow Coffin",
+          "artist": "Unknown (Egyptian)",
+          "date": "c. 1000–600 BCE",
+          "medium": "Painted wood",
+          "description": "Among the oldest wood paintings in history — the famous 'yellow coffins' of the Third Intermediate Period with intricate funerary iconography.",
+          "location": "Room II — Funerary Customs",
+          "image": "assets/images/sculpture/yellow-coffin.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Osiris-Antinous",
+          "artist": "Unknown (Roman-Egyptian)",
+          "date": "c. 130–138 CE",
+          "medium": "Black basalt",
+          "description": "Statue of Antinous, Hadrian's beloved, depicted as the god Osiris. Found at Hadrian's Villa, Tivoli.",
+          "location": "Room V / Hemicycle",
+          "image": "assets/images/sculpture/osiris-antinous.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Eight Sekhmet Statues",
+          "artist": "Unknown (Egyptian)",
+          "date": "c. 1390–1352 BCE",
+          "medium": "Granite",
+          "description": "Eight statues of the lioness goddess Sekhmet from the Temple Precinct of Mut at Karnak, plus four more in the hemicycle. Part of Amenhotep III's funerary temple, Thebes.",
+          "location": "Terrace of the Niche",
+          "image": "assets/images/sculpture/sekhmet.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Statue of Queen Tuya",
+          "artist": "Unknown (Egyptian)",
+          "date": "c. 1330–1250 BCE",
+          "medium": "Stone",
+          "description": "Statue of Queen Tuya, mother of Ramesses II, from the Gardens of Sallust collection.",
+          "location": "Room V / Hemicycle",
+          "image": "assets/images/sculpture/tuya.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Colossal Statue of the Nile",
+          "artist": "Unknown (Roman)",
+          "date": "1st–2nd century CE",
+          "medium": "Marble",
+          "description": "Reclining river-god of the Nile with crocodile at his feet, a Roman interpretation of the Egyptian river deity.",
+          "location": "Terrace of the Niche",
+          "image": "assets/images/sculpture/nile.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Bronze Pinecone",
+          "artist": "Publius Cincius Salvius (signed)",
+          "date": "1st–2nd century CE",
+          "medium": "Bronze, h. ~4 m",
+          "description": "Colossal Roman bronze pinecone, nearly 4 meters high. Originally a fountain near the Pantheon, later in the atrium of Old St. Peter's — cited by Dante (Inferno XXXI). Moved to the Cortile della Pigna in 1608.",
+          "location": "Cortile della Pigna (visible from Terrace)",
+          "image": "assets/images/sculpture/pinecone.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Book of the Dead",
+          "artist": "Unknown (Egyptian)",
+          "date": "c. 1550–1070 BCE",
+          "medium": "Papyrus",
+          "description": "The famous Egyptian funerary text — spells and formulas to guide the deceased through the afterlife.",
+          "location": "Room II — Funerary Customs",
+          "image": "assets/images/sculpture/book-dead.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Lions of Nectanebo",
+          "artist": "Unknown (Egyptian)",
+          "date": "c. 380–362 BCE",
+          "medium": "Stone",
+          "description": "Two reclining lion statues flanking the fountain, from the reign of Nectanebo II, Dynasty XXX.",
+          "location": "Terrace of the Niche",
+          "image": "assets/images/sculpture/lions.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Naophorus of Udjahorresnet",
+          "artist": "Unknown (Egyptian)",
+          "date": "c. 525 BCE",
+          "medium": "Stone",
+          "description": "Statue of Udjahorresnet carrying a naos shrine — the most important historical document in the collection, from the Persian conquest period.",
+          "location": "Room I — Epigraphic Artefacts",
+          "image": "assets/images/sculpture/udjahorresnet.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Sarcophagus of Djedmut",
+          "artist": "Unknown (Egyptian)",
+          "date": "c. 945–900 BCE",
+          "medium": "Painted wood, h. 209 cm",
+          "description": "Sarcophagus of Djedmut, singer of Amon-Ra at Karnak, early Dynasty XXII.",
+          "location": "Room II — Funerary Customs",
+          "image": "assets/images/sculpture/djedmut.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Shroud of the Lady of the Vatican",
+          "artist": "Unknown (Roman-Egyptian)",
+          "date": "c. 100–300 CE",
+          "medium": "Linen",
+          "description": "Roman-era linen shroud from Antinopolis, preserved with its painted decoration intact.",
+          "location": "Room II — Funerary Customs",
+          "image": "assets/images/sculpture/shroud.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "museo-chiaramonti",
+      "name": "Museo Chiaramonti",
+      "italian_name": "Chiaramonti Museum",
+      "description": "Founded by Pius VII Chiaramonti in the early 19th century. A long loggia of approximately 1,000 sculptures — one of the most important collections of Roman portrait busts in the world. Arranged by Antonio Canova after the Napoleonic looting and the 1815 recovery.",
+      "period": "Roman (1st–3rd century CE)",
+      "room_number": 2,
+      "artworks": [
+        {
+          "title": "Gallery of 1,000 Roman Busts",
+          "artist": "Various Roman sculptors",
+          "date": "1st–3rd century CE",
+          "medium": "Marble",
+          "description": "Approximately 1,000 Roman portrait busts lining both walls of the 300m loggia — emperors, emperors' wives, philosophers, orators. A 'gallery of famous names from antiquity.'",
+          "location": "Chiaramonti loggia",
+          "image": "assets/images/sculpture/busts.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Heracles with Infant Telephos",
+          "artist": "Unknown (Roman copy of Greek original)",
+          "date": "1st–2nd century CE",
+          "medium": "Marble",
+          "description": "Roman copy of a Greek original showing Hercules with his infant son Telephos.",
+          "location": "Chiaramonti loggia",
+          "image": "assets/images/sculpture/heracles-telephos.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Red Marble Papal Throne",
+          "artist": "Unknown",
+          "date": "Unknown",
+          "medium": "Red marble",
+          "description": "The red marble papal throne formerly in the Basilica of St. John Lateran.",
+          "location": "Gallery of the Busts",
+          "image": "assets/images/sculpture/throne.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Canova's Fresco Cycle",
+          "artist": "Young artists (Canova's workshop)",
+          "date": "1806–1815",
+          "medium": "Fresco (lunettes)",
+          "description": "Frescoes commemorating papal patronage and the return of Vatican works from France after the Napoleonic looting.",
+          "location": "Chiaramonti loggia lunettes",
+          "image": "assets/images/galleries/canova-frescoes.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "braccio-nuovo",
+      "name": "Braccio Nuovo (New Wing)",
+      "italian_name": "Braccio Nuovo",
+      "description": "A 68-meter neoclassical gallery built by Raffaele Stern in the early 19th century. Houses some of the Vatican's greatest Roman statues, including the Augustus of Prima Porta.",
+      "period": "Roman (1st century BCE – 2nd century CE)",
+      "room_number": 3,
+      "artworks": [
+        {
+          "title": "Augustus of Prima Porta",
+          "artist": "Unknown (Roman)",
+          "date": "1st century CE",
+          "medium": "Marble, h. 2.03 m",
+          "description": "The most famous portrait type of Emperor Augustus. Found 1863 at the Villa of Livia. Augustus in military dress (adlocutio pose), cuirass decorated with allegorical reliefs including the Parthian returning standards. Based on Polykleitos' Doryphoros pose.",
+          "location": "Braccio Nuovo",
+          "image": "assets/images/sculpture/augustus.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Roman Copy of the Doryphoros (Spear-Bearer)",
+          "artist": "Unknown (copy after Polykleitos)",
+          "date": "1st century CE",
+          "medium": "Marble",
+          "description": "Roman marble copy of Polykleitos' canonical 5th-century BCE Greek bronze, the ultimate classical statement of male proportion and contrapposto.",
+          "location": "Braccio Nuovo",
+          "image": "assets/images/sculpture/doryphoros.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Statue of the Nile",
+          "artist": "Unknown (Roman)",
+          "date": "1st–2nd century CE",
+          "medium": "Marble",
+          "description": "Roman river-god reclining with the Nile's tributaries; crocodile at his feet.",
+          "location": "Braccio Nuovo",
+          "image": "assets/images/sculpture/nile-braccio.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Gilded Bronze Peacocks",
+          "artist": "Unknown (Roman)",
+          "date": "2nd century CE",
+          "medium": "Gilt bronze",
+          "description": "Two splendid gilt-bronze peacocks; originals from Hadrian's tomb (Castel Sant'Angelo). The Cortile della Pigna peacocks are copies of these.",
+          "location": "Braccio Nuovo",
+          "image": "assets/images/sculpture/peacocks.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "museo-pio-clementino",
+      "name": "Museo Pio-Clementino",
+      "italian_name": "Pio-Clementino Museum",
+      "description": "Founded 1771 by Clement XIV, enlarged by Pius VI. The first public museum of antiquity in the modern sense. 12 rooms and galleries housing the Vatican's greatest collection of classical sculpture.",
+      "period": "Classical Antiquity (c. 400 BCE – 200 CE)",
+      "room_number": 4,
+      "artworks": [
+        {
+          "title": "Laocoon and His Sons",
+          "artist": "Agesander, Athenodoros & Polydorus of Rhodes",
+          "date": "c. 40–20 BCE (Hellenistic)",
+          "medium": "Marble, h. 208 cm",
+          "description": "Trojan priest Laocoon and his sons strangled by sea serpents after he warned against the Trojan Horse. Discovered on the Esquiline Hill in 1506; purchased by Julius II. Pliny called it 'superior to all other works of painting and sculpture.' The defining masterpiece of Hellenistic pathos and anatomy.",
+          "location": "Octagonal Court",
+          "image": "assets/images/sculpture/laocoon.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Apollo Belvedere",
+          "artist": "Leochares (Roman copy)",
+          "date": "c. 120–140 CE (copy of 4th c. BCE Greek original)",
+          "medium": "Marble, h. 224 cm",
+          "description": "The god after shooting his arrow, in a pose of ideal grace and contrapposto. The benchmark of classical male beauty for 500 years; endlessly copied and quoted by Canova, Thorvaldsen, and many others.",
+          "location": "Octagonal Court",
+          "image": "assets/images/sculpture/apollo.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Belvedere Torso",
+          "artist": "Apollonius of Athens (signed)",
+          "date": "1st century BCE (copy of early 2nd c. BCE bronze)",
+          "medium": "Marble, h. 1.59 m",
+          "description": "A powerfully seated male nude, muscles twisted in a spiral. Now identified as Ajax the Lesser contemplating suicide. Michelangelo revered it above all antiquities and used it as the model for many Sistine Chapel figures.",
+          "location": "Sala delle Muse",
+          "image": "assets/images/sculpture/torso.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Perseus Triumphant",
+          "artist": "Antonio Canova",
+          "date": "1804–1806",
+          "medium": "Marble, h. 228 cm",
+          "description": "Perseus holds the severed head of Medusa, standing in graceful contrapposto. Canova's masterpiece created after the Napoleonic looting; symbol of the restored collection.",
+          "location": "Sala del Perseus",
+          "image": "assets/images/sculpture/perseus.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Sleeping Ariadne",
+          "artist": "Unknown (Roman copy of 2nd c. BCE original)",
+          "date": "1st–2nd century CE",
+          "medium": "Marble",
+          "description": "Ariadne abandoned on Naxos, discovered in the 16th century and long mistaken for Cleopatra. A favorite of Renaissance and Baroque artists for her pose of vulnerable sleep.",
+          "location": "Gallery of the Statues",
+          "image": "assets/images/sculpture/ariadne.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Gilded Bronze Hercules",
+          "artist": "Unknown (Roman)",
+          "date": "1st–2nd century CE",
+          "medium": "Gilt bronze",
+          "description": "Colossal bronze statue of Hercules, found near the Theatre of Pompey; a rare surviving monumental ancient bronze.",
+          "location": "Sala Rotonda",
+          "image": "assets/images/sculpture/hercules.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Braschi Antinous",
+          "artist": "Unknown (Roman)",
+          "date": "c. 130–138 CE",
+          "medium": "Marble",
+          "description": "Over-life-size marble bust of Antinous, Hadrian's beloved, found at Palestrina; one of the finest Antinous portraits in existence.",
+          "location": "Sala Rotonda",
+          "image": "assets/images/sculpture/antinous.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Porphyry Sarcophagus of St. Helena",
+          "artist": "Unknown (Roman)",
+          "date": "4th century CE",
+          "medium": "Imperial porphyry",
+          "description": "Sarcophagus of Helena, mother of Constantine, made of imperial porphyry — the red Egyptian stone reserved for the imperial family.",
+          "location": "Greek Cross Gallery",
+          "image": "assets/images/sculpture/helena.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Porphyry Sarcophagus of Constance",
+          "artist": "Unknown (Roman)",
+          "date": "4th century CE",
+          "medium": "Imperial porphyry",
+          "description": "Sarcophagus of Constantina (Constance), daughter of Constantine, in imperial porphyry.",
+          "location": "Greek Cross Gallery",
+          "image": "assets/images/sculpture/constance.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Three Graces",
+          "artist": "Unknown (Roman copy)",
+          "date": "1st–2nd century CE",
+          "medium": "Marble",
+          "description": "A version of the famous Three Graces group, displayed along the walls of the Cabinet of the Masks.",
+          "location": "Cabinet of the Masks",
+          "image": "assets/images/sculpture/graces.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Apoxyomenos (The Scraper)",
+          "artist": "Unknown (Roman copy of Lysippus)",
+          "date": "1st century CE",
+          "medium": "Marble",
+          "description": "Roman copy of Lysippus' famous athlete scraping oil from his body with a strigil — a canonical classical pose.",
+          "location": "Pio-Clementino",
+          "image": "assets/images/sculpture/apoxyomenos.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Barberini Candelabra",
+          "artist": "Unknown (Roman)",
+          "date": "1st century CE",
+          "medium": "Marble",
+          "description": "Ancient marble candelabrum from the Barberini collection.",
+          "location": "Gallery of the Statues",
+          "image": "assets/images/sculpture/candelabra.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Biga (Ancient Chariot)",
+          "artist": "Unknown (Roman)",
+          "date": "1st–2nd century CE",
+          "medium": "Marble",
+          "description": "Ancient two-horse chariot sculpture displayed in the Octagonal Court area.",
+          "location": "Octagonal Court",
+          "image": "assets/images/sculpture/biga.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Sarcophagus of Scipio Barbatus",
+          "artist": "Unknown (Roman)",
+          "date": "c. 280 BCE",
+          "medium": "Stone",
+          "description": "Epitaph of Lucius Cornelius Scipio Barbatus — an important early Latin inscription on a sarcophagus.",
+          "location": "Pio-Clementino",
+          "image": "assets/images/sculpture/scipio.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Divinita Fluviale (Arno)",
+          "artist": "Unknown (Roman)",
+          "date": "1st–2nd century CE",
+          "medium": "Marble",
+          "description": "Reclining river-god figure representing the Arno river.",
+          "location": "Sala degli Animali",
+          "image": "assets/images/sculpture/arno.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "museo-gregoriano-etrusco",
+      "name": "Museo Gregoriano Etrusco",
+      "italian_name": "Gregorian Etruscan Museum",
+      "description": "Founded by Gregory XVI, inaugurated 2 February 1837 — one of the first museums dedicated to Etruscan antiquities. 22 rooms in the Palazzetto del Belvedere. Approximately 15,000 inventoried works, 4,000 on display.",
+      "period": "Etruscan (c. 900–100 BCE)",
+      "room_number": 5,
+      "artworks": [
+        {
+          "title": "Regolini-Galassi Tomb Assemblage",
+          "artist": "Etruscan goldsmiths and craftsmen",
+          "date": "c. 675–650 BCE",
+          "medium": "Gold, silver, bronze, ivory",
+          "description": "Tomb discovered intact in 1836 at Cerveteri — the richest Etruscan tomb ever found. Jewels including a spectacular pectoral, large fibula, bracelets, necklace; silver vessels including oinochoe, hemispherical cup, patera, skyphos, amphora; bronze funerary bed; three restored carts; shields.",
+          "location": "Room II",
+          "image": "assets/images/galleries/regolini-galassi.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Mars of Todi",
+          "artist": "Unknown (Etruscan bronze worker)",
+          "date": "Early 4th century BCE",
+          "medium": "Bronze",
+          "description": "A masterpiece of Etruscan bronze work — a statuette of a warrior (Mars) with a helmet, originally holding a shield and spear. Found in Todi in 1835.",
+          "location": "Gregorian Etruscan Museum",
+          "image": "assets/images/sculpture/mars-todi.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Exekias Amphora",
+          "artist": "Exekias (signed)",
+          "date": "c. 530 BCE",
+          "medium": "Attic black-figure pottery",
+          "description": "Signed by Exekias, the greatest Attic black-figure vase painter — depicts Achilles and Ajax playing a board game. A history of ancient Greek painting from Etruscan graves.",
+          "location": "Vase Collection (Rooms XVIII–XXII)",
+          "image": "assets/images/galleries/exekias.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Etruscan Gold Jewelry Collection",
+          "artist": "Etruscan goldsmiths",
+          "date": "c. 650–550 BCE",
+          "medium": "Gold, precious stones",
+          "description": "Refined gold pieces from Cerveteri and Tarquinia demonstrating Etruscan goldwork mastery at its peak.",
+          "location": "Goldsmith Rooms",
+          "image": "assets/images/galleries/etruscan-gold.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Funerary Monument with Dying Adonis",
+          "artist": "Unknown (Etruscan)",
+          "date": "c. 400–300 BCE",
+          "medium": "Terracotta/stone",
+          "description": "Important Etruscan funerary art depicting the dying Adonis.",
+          "location": "Etruscan Museum",
+          "image": "assets/images/galleries/adonis.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Attic Kylix Attributed to Douris",
+          "artist": "Douris (attributed)",
+          "date": "c. 490 BCE",
+          "medium": "Attic red-figure pottery",
+          "description": "Kylix attributed to Douris depicting Jason — from the Etruscan vase collection.",
+          "location": "Vase Collection",
+          "image": "assets/images/galleries/douris.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Cinerary Urn of the Master of Oenomaus",
+          "artist": "Master of Oenomaus",
+          "date": "c. 300 BCE",
+          "medium": "Terracotta",
+          "description": "Cinerary urn by the Etruscan artist known as the Master of Oenomaus.",
+          "location": "Etruscan Museum",
+          "image": "assets/images/galleries/oenomaus.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "galleria-candelabri",
+      "name": "Galleria dei Candelabri",
+      "italian_name": "Gallery of the Candelabra",
+      "description": "An approximately 80-meter corridor with six sections divided by pairs of massive ancient marble candelabra. Built as an open loggia in 1761 by Pius VI; completely renovated under Leo XIII (1883–1887) with frescoes by Ludwig Seitz.",
+      "period": "Classical Antiquity (various)",
+      "room_number": 6,
+      "artworks": [
+        {
+          "title": "Gigantic Toe of a Right Foot",
+          "artist": "Unknown (Roman)",
+          "date": "Unknown",
+          "medium": "Marble",
+          "description": "Colossal toe from a statue approximately 13 meters tall, found near the Colosseum — possibly from the Temple of Venus and Rome.",
+          "location": "Section 1",
+          "image": "assets/images/sculpture/toe.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Artemis of Ephesus",
+          "artist": "Unknown (Roman)",
+          "date": "2nd century CE",
+          "medium": "Marble",
+          "description": "Fertility goddess Artemis of Ephesus, depicted with multiple breasts/bull testicles — a striking ancient icon of abundance.",
+          "location": "Section 2",
+          "image": "assets/images/sculpture/artemis.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Hypnos (God of Sleep) and Thanatos (Genius of Death)",
+          "artist": "Unknown (after Praxiteles)",
+          "date": "Mid-2nd century CE",
+          "medium": "Marble",
+          "description": "Two statues from the Villa of Cassius, Tivoli (found 1774) — personifications of Sleep and Death, after Praxiteles.",
+          "location": "Section 3",
+          "image": "assets/images/sculpture/hypnos.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Statue of an Old Fisherman",
+          "artist": "Unknown (Roman)",
+          "date": "2nd century CE",
+          "medium": "Marble",
+          "description": "Striking realistic portrait of an old fisherman, from Anzio (found 1773) — remarkable for its unidealized naturalism.",
+          "location": "Section 4",
+          "image": "assets/images/sculpture/fisherman.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Boy Strangling a Goose",
+          "artist": "Unknown (copy after Boethus)",
+          "date": "2nd century BCE original",
+          "medium": "Marble",
+          "description": "Copy after Boethus — a playful genre scene of a boy strangling a goose, from the Villa Quintili (found 1789).",
+          "location": "Section 4",
+          "image": "assets/images/sculpture/boy-goose.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Persian Warrior",
+          "artist": "Unknown (Roman copy)",
+          "date": "c. 110 CE",
+          "medium": "Marble",
+          "description": "Roman copy of a votive group of Attalos II of Pergamon — a dying Persian warrior. Found 1503–1512 at Palazzo Medici/Madama.",
+          "location": "Section 6",
+          "image": "assets/images/sculpture/persian.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Ludwig Seitz Ceiling Frescoes",
+          "artist": "Ludwig Seitz",
+          "date": "1883–1887",
+          "medium": "Fresco",
+          "description": "Grand ceiling series honoring St. Thomas Aquinas, painted by Ludwig Seitz under Leo XIII. Also frescoes by Domenico Torti (The Triumph of Truth).",
+          "location": "Ceiling",
+          "image": "assets/images/galleries/seitz-ceiling.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Dionysus on a Satyr",
+          "artist": "Unknown (Roman)",
+          "date": "1st–2nd century CE",
+          "medium": "Marble",
+          "description": "Dionysus standing on a satyr — a playful Dionysiac group.",
+          "location": "Section 4",
+          "image": "assets/images/sculpture/dionysus.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Circular Altar",
+          "artist": "Unknown (Roman)",
+          "date": "1st–2nd century BCE",
+          "medium": "Marble",
+          "description": "Circular altar with a sacrifice scene featuring Mercury, from Tor Colombaro on the Appian Way.",
+          "location": "Section 5",
+          "image": "assets/images/sculpture/altar.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "galleria-arazzi",
+      "name": "Galleria degli Arazzi",
+      "italian_name": "Gallery of the Tapestries",
+      "description": "A 75-meter corridor displaying magnificent tapestries. The left wall features Raphael tapestries designed by Raphael and woven in Brussels for the Sistine Chapel; the right wall displays ancient pontifical tapestries.",
+      "period": "16th century",
+      "room_number": 7,
+      "artworks": [
+        {
+          "title": "Raphael Tapestries",
+          "artist": "Raphael (designs); Pieter van Aelst workshop (weaving)",
+          "date": "c. 1516–1521",
+          "medium": "Wool, silk, gold and silver thread",
+          "description": "Designed by Raphael and woven in Brussels by Pieter van Aelst's workshop for the Sistine Chapel, commissioned by Clement VII. The cartoons were drawn bottom-to-top for low-warp looms. Subjects include Christ's charge to Peter, the stoning of St. Stephen, the conversion of St. Paul, and more. The original cartoons are now in the Victoria and Albert Museum, London.",
+          "location": "Left wall",
+          "image": "assets/images/galleries/raphael-tapestries.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Ancient Pontifical Tapestries",
+          "artist": "Flemish and Italian workshops",
+          "date": "15th–17th century",
+          "medium": "Wool, silk",
+          "description": "Ancient tapestries from the papal collections, displayed on the right wall.",
+          "location": "Right wall",
+          "image": "assets/images/galleries/pontifical-tapestries.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Bernardino Nocchi Ceiling Frescoes",
+          "artist": "Bernardino Nocchi",
+          "date": "1788–1789",
+          "medium": "Fresco",
+          "description": "Ceiling scenes celebrating the virtues of Pius VI foreshadowed in Roman emperors: Nerva, Trajan, Alexander Severus; Clemency of Titus; Antoninus Pius vs. Numa Pompilius.",
+          "location": "Ceiling",
+          "image": "assets/images/galleries/nocchi-ceiling.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Trompe-l'oeil Floor Borders",
+          "artist": "Unknown",
+          "date": "18th century",
+          "medium": "Marble inlay",
+          "description": "The gallery is famous for its trompe-l'oeil floor borders, creating illusionistic depth patterns in marble.",
+          "location": "Floor",
+          "image": "assets/images/galleries/floor-borders.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "galleria-carte-geografiche",
+      "name": "Galleria delle Carte Geografiche",
+      "italian_name": "Gallery of the Maps",
+      "description": "A 120-meter long corridor built 1578–1580 by Ottaviano Nonni for Gregory XIII. Frescoed with 40 maps of Italy coordinated by Egnazio Danti. The world's largest pictorial geographical study — the first time Italy was represented as a unified geographical, historical, and cultural entity.",
+      "period": "1580–1581",
+      "room_number": 8,
+      "artworks": [
+        {
+          "title": "Italia Antiqua and Italia Nova",
+          "artist": "Danti team (after Egnazio Danti)",
+          "date": "1580–1581",
+          "medium": "Fresco",
+          "description": "The two entrance maps of the corridor — ancient Italy and modern Italy — setting the stage for the 32 regional maps that follow.",
+          "location": "Entrance",
+          "image": "assets/images/galleries/italia-maps.jpg",
+          "highlight": true
+        },
+        {
+          "title": "32 Regional Maps of Italy",
+          "artist": "Danti team (after Egnazio Danti)",
+          "date": "1580–1581",
+          "medium": "Fresco, each ~300 x 400 cm",
+          "description": "The 32 regional maps of the Italian peninsula arranged north-to-south along the Apennine spine: Piedmont, Liguria, Lombardy, Veneto, Emilia-Romagna, Tuscany, Umbria, Marche, Lazio, Abruzzo, Campania, Puglia, Basilicata, Calabria, Sicily, Sardinia, Corsica, and others.",
+          "location": "Walls of the corridor",
+          "image": "assets/images/galleries/regional-maps.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Maps of Battles and Ports",
+          "artist": "Danti team",
+          "date": "1580–1581",
+          "medium": "Fresco",
+          "description": "Eight narrow maps at the ends: Siege of Malta (1565), Battle of Lepanto (1571), Elba, Tremiti Islands; and the four ports: Civitavecchia, Genoa, Venice, Ancona.",
+          "location": "Ends of corridor",
+          "image": "assets/images/galleries/battle-maps.jpg",
+          "highlight": false
+        },
+        {
+          "title": "51 Ceiling Panels",
+          "artist": "Danti team",
+          "date": "1580–1581",
+          "medium": "Fresco",
+          "description": "51 panels in rich gilded stucco frames, each depicting a scene from Church history, the Old Testament, or the lives of saints associated with the region below.",
+          "location": "Ceiling",
+          "image": "assets/images/galleries/map-ceiling.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "stanze-raffaello",
+      "name": "Stanze di Raffaello (Raphael Rooms)",
+      "italian_name": "Raphael Rooms",
+      "description": "Four rooms in the Apostolic Palace frescoed by Raphael and his workshop for Julius II and Leo X. Together with Michelangelo's Sistine Chapel ceiling, they are the grand fresco sequences that mark the High Renaissance in Rome.",
+      "period": "1508–1524",
+      "room_number": 10,
+      "artworks": [
+        {
+          "title": "The School of Athens",
+          "artist": "Raphael",
+          "date": "1509–1511",
+          "medium": "Fresco, 500 x 770 cm",
+          "description": "The most famous fresco of the High Renaissance: ancient philosophers gathered in grand imaginary classical architecture. Plato (pointing upward, modeled on Leonardo) and Aristotle (pointing earthward) at the center; Pythagoras, Euclid, Heraclitus (portrait of Michelangelo), Ptolemy, Zoroaster. Raphael painted himself into the group (far right, beside Ptolemy).",
+          "location": "Stanza della Segnatura, East wall",
+          "image": "assets/images/raphael/school-athens.jpg",
+          "highlight": true
+        },
+        {
+          "title": "The Disputation of the Holy Sacrament",
+          "artist": "Raphael",
+          "date": "1509–1510",
+          "medium": "Fresco, 500 x 770 cm",
+          "description": "Heaven and earth gather around the Eucharist: the Trinity above, Mary, John the Baptist, martyrs, prophets; below, the Church Militant — saints, doctors, and scholars in animated discussion. A theology of the Eucharist in pictorial form.",
+          "location": "Stanza della Segnatura, West wall",
+          "image": "assets/images/raphael/disputation.jpg",
+          "highlight": true
+        },
+        {
+          "title": "The Parnassus",
+          "artist": "Raphael",
+          "date": "1509–1511",
+          "medium": "Fresco",
+          "description": "Apollo playing the lyre on Mount Parnassus, surrounded by the nine Muses and poets (Homer, Virgil, Dante, Petrarch) — the domain of poetry and inspiration.",
+          "location": "Stanza della Segnatura, North wall",
+          "image": "assets/images/raphael/parnassus.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Cardinal and Theological Virtues",
+          "artist": "Raphael",
+          "date": "1509–1511",
+          "medium": "Fresco",
+          "description": "Allegorical female figures of Fortitude, Prudence, Temperance (cardinal) and Faith, Hope, Charity (theological), with Justice above.",
+          "location": "Stanza della Segnatura, South wall",
+          "image": "assets/images/raphael/virtues.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Ceiling Tondi — Theology, Philosophy, Poetry, Jurisprudence",
+          "artist": "Raphael",
+          "date": "1508–1511",
+          "medium": "Fresco",
+          "description": "The four branches of knowledge as personified in medallions, with scenes of Adam and Eve, The Judgment of Solomon, Urania, The Flaying of Marsyas.",
+          "location": "Stanza della Segnatura, Ceiling",
+          "image": "assets/images/raphael/tondi.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Expulsion of Heliodorus from the Temple",
+          "artist": "Raphael",
+          "date": "1511–1512",
+          "medium": "Fresco",
+          "description": "Angels drive the profane Heliodorus from the Temple of Jerusalem, watched from the left by Julius II carried in by Swiss Guard. Dynamic, theatrical composition — a departure from the serene Segnatura style.",
+          "location": "Stanza di Eliodoro, West wall",
+          "image": "assets/images/raphael/heliodorus.jpg",
+          "highlight": true
+        },
+        {
+          "title": "The Mass at Bolsena",
+          "artist": "Raphael",
+          "date": "1512",
+          "medium": "Fresco",
+          "description": "The 1263 miracle of the bleeding Host at Bolsena, confirming the doctrine of Transubstantiation for a doubting Bohemian priest. Julius II kneels at the altar (lower right).",
+          "location": "Stanza di Eliodoro, East wall",
+          "image": "assets/images/raphael/bolsena.jpg",
+          "highlight": true
+        },
+        {
+          "title": "The Liberation of Saint Peter from Prison",
+          "artist": "Raphael",
+          "date": "1513–1514",
+          "medium": "Fresco",
+          "description": "Three scenes in one: the sleeping Peter, the angel freeing him, Peter led past sleeping guards. A study in light: natural moonlight, man-made torchlight, and God-provided angel light.",
+          "location": "Stanza di Eliodoro, North wall",
+          "image": "assets/images/raphael/liberation-peter.jpg",
+          "highlight": true
+        },
+        {
+          "title": "The Meeting of Pope Leo the Great and Attila",
+          "artist": "Raphael",
+          "date": "1513–1514",
+          "medium": "Fresco",
+          "description": "Pope Leo I turns back Attila the Hun in 452, with Sts. Peter and Paul appearing in the sky bearing swords. Portrait of Leo X as the cardinal in the procession.",
+          "location": "Stanza di Eliodoro, South wall",
+          "image": "assets/images/raphael/leo-attila.jpg",
+          "highlight": true
+        },
+        {
+          "title": "The Fire in the Borgo",
+          "artist": "Raphael (design); Giulio Romano (execution)",
+          "date": "1514–1517",
+          "medium": "Fresco",
+          "description": "Pope Leo IV extinguishes the 847 fire in the Borgo with the sign of the cross from the Loggia of Blessings. Raphael's design, executed by Giulio Romano.",
+          "location": "Stanza dell'Incendio del Borgo, West wall",
+          "image": "assets/images/raphael/borgo.jpg",
+          "highlight": true
+        },
+        {
+          "title": "The Battle of Ostia",
+          "artist": "Raphael (workshop)",
+          "date": "1514–1515",
+          "medium": "Fresco",
+          "description": "Leo IV's naval victory over the Saracens at Ostia, 849.",
+          "location": "Stanza dell'Incendio del Borgo, East wall",
+          "image": "assets/images/raphael/ostia.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Coronation of Charlemagne",
+          "artist": "Raphael (workshop)",
+          "date": "1516–1517",
+          "medium": "Fresco",
+          "description": "Leo III crowns Charlemagne Emperor on Christmas Day, 800 — the foundation of the Holy Roman Empire.",
+          "location": "Stanza dell'Incendio del Borgo, South wall",
+          "image": "assets/images/raphael/charlemagne.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Oath of Leo III",
+          "artist": "Raphael (workshop)",
+          "date": "1516–1517",
+          "medium": "Fresco",
+          "description": "Leo III purging himself of false accusations before Charlemagne, 800.",
+          "location": "Stanza dell'Incendio del Borgo, North wall",
+          "image": "assets/images/raphael/leo-oath.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Vision of the Cross",
+          "artist": "Giulio Romano (workshop)",
+          "date": "1520–1524",
+          "medium": "Fresco",
+          "description": "Constantine sees the cross with the sign 'In hoc signo vinces' before the Battle of the Milvian Bridge.",
+          "location": "Sala di Costantino, North wall",
+          "image": "assets/images/raphael/vision-cross.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Battle of the Milvian Bridge",
+          "artist": "Giulio Romano (workshop)",
+          "date": "1520–1524",
+          "medium": "Fresco",
+          "description": "Constantine's victory over Maxentius, 312 CE — the triumph of Christianity over paganism.",
+          "location": "Sala di Costantino, West wall",
+          "image": "assets/images/raphael/milvian.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Baptism of Constantine",
+          "artist": "Gianfrancesco Penni (workshop)",
+          "date": "1517–1524",
+          "medium": "Fresco",
+          "description": "Constantine baptized by Pope Sylvester I in the Lateran. Sylvester has the features of Pope Clement VII.",
+          "location": "Sala di Costantino, East wall",
+          "image": "assets/images/raphael/baptism.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Donation of Constantine",
+          "artist": "Giulio Romano (workshop)",
+          "date": "1520–1524",
+          "medium": "Fresco",
+          "description": "The forged 'Donation' by which Constantine supposedly granted Rome and the West to the Pope — a key text of papal territorial claims.",
+          "location": "Sala di Costantino, South wall",
+          "image": "assets/images/raphael/donation.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "sistine-chapel",
+      "name": "Cappella Sistina (Sistine Chapel)",
+      "italian_name": "Sistine Chapel",
+      "description": "Named for Pope Sixtus IV who restored the Cappella Magna 1477–1480. Consecrated 15 August 1483. The site of the Papal Conclave. Michelangelo's ceiling (1508–1512) and Last Judgment (1536–1541) are the crowning achievements of Western art.",
+      "period": "1481–1541",
+      "room_number": 12,
+      "artworks": [
+        {
+          "title": "The Creation of Adam",
+          "artist": "Michelangelo",
+          "date": "1508–1512",
+          "medium": "Fresco (ceiling)",
+          "description": "The iconic near-touching hands of God and Adam; Eve watches from beneath God's cloak. Perhaps the most famous image in Western art, painted by Michelangelo as part of the Genesis ceiling cycle.",
+          "location": "Ceiling, central panel 4",
+          "image": "assets/images/sistine/creation-adam.jpg",
+          "highlight": true
+        },
+        {
+          "title": "The Separation of Light from Darkness",
+          "artist": "Michelangelo",
+          "date": "1511–1512",
+          "medium": "Fresco (ceiling)",
+          "description": "God divides light from the void; the final narrative panel painted, with God in dynamic contrapposto.",
+          "location": "Ceiling, central panel 1 (nearest altar)",
+          "image": "assets/images/sistine/light-darkness.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Creation of the Sun, Moon and Plants",
+          "artist": "Michelangelo",
+          "date": "1511",
+          "medium": "Fresco (ceiling)",
+          "description": "God creates the luminaries and vegetation, depicted in two movements of the same figure.",
+          "location": "Ceiling, central panel 2",
+          "image": "assets/images/sistine/sun-moon.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Separation of Land and Water",
+          "artist": "Michelangelo",
+          "date": "1511",
+          "medium": "Fresco (ceiling)",
+          "description": "God divides sea from dry land in a powerful rotational pose.",
+          "location": "Ceiling, central panel 3",
+          "image": "assets/images/sistine/land-water.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Creation of Eve",
+          "artist": "Michelangelo",
+          "date": "1510",
+          "medium": "Fresco (ceiling)",
+          "description": "Eve emerges from Adam's side, hands raised in reverence.",
+          "location": "Ceiling, central panel 5",
+          "image": "assets/images/sistine/eve.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Fall and Expulsion from the Garden of Eden",
+          "artist": "Michelangelo",
+          "date": "1509",
+          "medium": "Fresco (ceiling)",
+          "description": "Temptation by the serpent and the expulsion combined in one panel — two moments in the same frame.",
+          "location": "Ceiling, central panel 6",
+          "image": "assets/images/sistine/fall.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Sacrifice of Noah",
+          "artist": "Michelangelo",
+          "date": "1509",
+          "medium": "Fresco (ceiling)",
+          "description": "Noah offers thanksgiving sacrifice after the Flood.",
+          "location": "Ceiling, central panel 7",
+          "image": "assets/images/sistine/noah-sacrifice.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Great Flood",
+          "artist": "Michelangelo",
+          "date": "1508–1509",
+          "medium": "Fresco (ceiling)",
+          "description": "Humanity perishes in the Flood; the ark floats in the background. A vortex of drowning figures.",
+          "location": "Ceiling, central panel 8",
+          "image": "assets/images/sistine/flood.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Drunkenness of Noah",
+          "artist": "Michelangelo",
+          "date": "1509",
+          "medium": "Fresco (ceiling)",
+          "description": "Noah drunk, mocked by his sons — human weakness in the chosen patriarch.",
+          "location": "Ceiling, central panel 9",
+          "image": "assets/images/sistine/noah-drunk.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Twelve Prophets and Sibyls",
+          "artist": "Michelangelo",
+          "date": "1508–1512",
+          "medium": "Fresco (spandrels)",
+          "description": "Seated on thrones: Jonah, Jeremiah, Persian Sibyl, Ezekiel, Erythraean Sibyl, Joel, Zechariah, Delphic Sibyl, Isaiah, Cumaean Sibyl, Daniel, Libyan Sibyl.",
+          "location": "Ceiling spandrels",
+          "image": "assets/images/sistine/prophets.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Four Corner Pendentives",
+          "artist": "Michelangelo",
+          "date": "1508–1512",
+          "medium": "Fresco",
+          "description": "The salvation of Israel: The Brazen Serpent, The Crucifixion of Haman (Esther), David and Goliath, Judith and Holofernes.",
+          "location": "Ceiling corners",
+          "image": "assets/images/sistine/pendentives.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Twenty Ignudi",
+          "artist": "Michelangelo",
+          "date": "1508–1512",
+          "medium": "Fresco",
+          "description": "Twenty athletic nude youths framing the five smaller central scenes, each pair enclosing a medallion. Represent the perfection of humanity or angels; a pattern book for later artists.",
+          "location": "Ceiling, around central panels",
+          "image": "assets/images/sistine/ignudi.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Ancestors of Christ",
+          "artist": "Michelangelo",
+          "date": "1508–1512",
+          "medium": "Fresco (lunettes and spandrels)",
+          "description": "14 lunettes above the windows plus 8 spandrels above them, depicting 40 generations from Abraham to Jesse/David.",
+          "location": "Ceiling lunettes",
+          "image": "assets/images/sistine/ancestors.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Last Judgment",
+          "artist": "Michelangelo",
+          "date": "1536–1541",
+          "medium": "Fresco, ~200 x 10 m",
+          "description": "Christ in glory at the center, surrounded by Mary, apostles, martyrs. The saved rise on the left; the damned are dragged to hell on the right. Charon ferries souls (from Dante); Minos judges. Michelangelo painted his own face onto the flayed skin held by St. Bartholomew.",
+          "location": "Altar wall",
+          "image": "assets/images/sistine/last-judgment.jpg",
+          "highlight": true
+        },
+        {
+          "title": "The Baptism of Christ (North Wall)",
+          "artist": "Pietro Perugino",
+          "date": "1481–1482",
+          "medium": "Fresco",
+          "description": "Christ baptized by John in the Jordan — the first fresco on the north wall (Life of Christ cycle).",
+          "location": "North wall",
+          "image": "assets/images/sistine/baptism.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Trials of Moses (South Wall)",
+          "artist": "Sandro Botticelli",
+          "date": "1481–1482",
+          "medium": "Fresco",
+          "description": "Botticelli's masterpiece in the chapel: the killing of the Egyptian, defending Jethro's daughters, the Burning Bush.",
+          "location": "South wall",
+          "image": "assets/images/sistine/trials-moses.jpg",
+          "highlight": true
+        },
+        {
+          "title": "The Temptations of Christ (North Wall)",
+          "artist": "Sandro Botticelli",
+          "date": "1481–1482",
+          "medium": "Fresco",
+          "description": "Christ tested by the devil; temple pinnacle scene.",
+          "location": "North wall",
+          "image": "assets/images/sistine/temptations.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Calling of Peter and Andrew (North Wall)",
+          "artist": "Domenico Ghirlandaio",
+          "date": "1481–1482",
+          "medium": "Fresco",
+          "description": "Christ calls the first apostles by the Sea of Galilee.",
+          "location": "North wall",
+          "image": "assets/images/sistine/calling.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Handing over of the Keys (North Wall)",
+          "artist": "Pietro Perugino",
+          "date": "1481–1482",
+          "medium": "Fresco",
+          "description": "'You are Peter, and on this rock I will build my church' — Christ gives the keys to Peter.",
+          "location": "North wall",
+          "image": "assets/images/sistine/keys.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Crossing of the Red Sea (South Wall)",
+          "artist": "Cosimo Rosselli",
+          "date": "1481–1482",
+          "medium": "Fresco",
+          "description": "Israel escapes Egypt; Pharaoh's army overwhelmed by the waters.",
+          "location": "South wall",
+          "image": "assets/images/sistine/red-sea.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Handing over of the Tablets of the Law (South Wall)",
+          "artist": "Cosimo Rosselli",
+          "date": "1481–1482",
+          "medium": "Fresco",
+          "description": "Sinai, golden calf worship, punishment, return of the Tablets.",
+          "location": "South wall",
+          "image": "assets/images/sistine/tablets.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Punishment of Korah, Dathan and Abiram (South Wall)",
+          "artist": "Sandro Botticelli",
+          "date": "1481–1482",
+          "medium": "Fresco",
+          "description": "The rebel priests swallowed by the earth — a dramatic composition of divine punishment.",
+          "location": "South wall",
+          "image": "assets/images/sistine/korah.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Testament and Death of Moses (South Wall)",
+          "artist": "Luca Signorelli",
+          "date": "1481–1482",
+          "medium": "Fresco",
+          "description": "Moses' final address and death on Mount Nebo — powerful figures in dramatic landscape.",
+          "location": "South wall",
+          "image": "assets/images/sistine/moses-death.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Sermon on the Mount (North Wall)",
+          "artist": "Cosimo Rosselli",
+          "date": "1481–1482",
+          "medium": "Fresco",
+          "description": "Christ delivers the Beatitudes to the crowds.",
+          "location": "North wall",
+          "image": "assets/images/sistine/sermon.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Journey of Moses in Egypt (South Wall)",
+          "artist": "Pietro Perugino",
+          "date": "1481–1482",
+          "medium": "Fresco",
+          "description": "Combines farewell to Jethro, return to Egypt, circumcision of Moses' son.",
+          "location": "South wall",
+          "image": "assets/images/sistine/journey.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Marble Transenna (Choir Screen)",
+          "artist": "Mino da Fiesole, Andrea Bregno, Giovanni Dalmata",
+          "date": "1482–1483",
+          "medium": "Marble",
+          "description": "The marble screen dividing the chapel into sanctuary and nave, surmounted by ornate candlesticks and the papal coat of arms of Sixtus IV.",
+          "location": "Center of chapel",
+          "image": "assets/images/sistine/transenna.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Raphael Tapestries (Sistine Chapel)",
+          "artist": "Raphael (designs); Pieter van Aelst workshop",
+          "date": "c. 1515–1521",
+          "medium": "Wool, silk, gold and silver thread",
+          "description": "Ten tapestries depicting events from the Lives of St. Peter and St. Paul, commissioned by Leo X. Looted during the Sack of Rome (1527); a set reassembled and displayed again from 1983.",
+          "location": "Lower walls (occasional display)",
+          "image": "assets/images/sistine/raphael-tapestries.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "pinacoteca-vaticana",
+      "name": "Pinacoteca Vaticana",
+      "italian_name": "Vatican Picture Gallery",
+      "description": "Inaugurated 27 October 1932 in a building purpose-built by architect Luca Beltrami for Pius XI. Approximately 460 paintings in 18 chronological rooms, from the 'Primitives' (12th–13th c.) to the 19th century.",
+      "period": "12th–19th Century Painting",
+      "room_number": 19,
+      "artworks": [
+        {
+          "title": "Stefaneschi Triptych",
+          "artist": "Giotto di Bondone and assistants",
+          "date": "c. 1320",
+          "medium": "Tempera on wood, central panel 178 x 89 cm",
+          "description": "Commissioned by Cardinal Jacopo Stefaneschi for Old St. Peter's. Painted on both sides: front — Christ enthroned with the Crucifixion of St. Peter and Martyrdom of St. Paul; back — St. Peter enthroned holding the model of the triptych. A supreme Giotto work.",
+          "location": "Room II",
+          "image": "assets/images/pinacoteca/stefaneschi.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Stories of St. Nicholas of Bari",
+          "artist": "Fra Angelico",
+          "date": "1437",
+          "medium": "Tempera on wood",
+          "description": "Fra Angelico's luminous devotional panels depicting the life of St. Nicholas — golden, radiant, and deeply spiritual.",
+          "location": "Room III",
+          "image": "assets/images/pinacoteca/angelico.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Sixtus IV appoints Bartolomeo Platina Prefect of the Vatican Library",
+          "artist": "Melozzo da Forli",
+          "date": "1477",
+          "medium": "Fresco transferred to canvas",
+          "description": "The great fresco from the Vatican Library — portrait group including Cardinal Giuliano della Rovere (future Julius II). A masterpiece of Quattrocento perspective and portraiture.",
+          "location": "Room IV",
+          "image": "assets/images/pinacoteca/melozzo.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Madonna and Child Enthroned with Saints Dominic and Catherine",
+          "artist": "Fra Angelico",
+          "date": "1435",
+          "medium": "Tempera on wood",
+          "description": "A serene devotional panel showing the Madonna enthroned with Saints Dominic and Catherine of Siena.",
+          "location": "Room III",
+          "image": "assets/images/pinacoteca/angelico-madonna.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Transfiguration",
+          "artist": "Raphael (Raffaello Sanzio)",
+          "date": "1516–1520",
+          "medium": "Oil on wood, 410 x 279 cm",
+          "description": "Raphael's final masterpiece: two scenes in one canvas — Christ blazing on Mount Tabor above, the apostles failing to heal the possessed boy below. Left unfinished at his death (1520). Arguably the most influential altarpiece of the High Renaissance.",
+          "location": "Room VIII",
+          "image": "assets/images/pinacoteca/transfiguration.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Madonna of Foligno",
+          "artist": "Raphael",
+          "date": "1511–1512",
+          "medium": "Oil on canvas transferred from wood",
+          "description": "The Madonna and Child with saints and a kneeling donor (Sigismondo de' Conti), set against the town of Foligno. Painted for the high altar of Santa Maria in Aracoeli.",
+          "location": "Room VIII",
+          "image": "assets/images/pinacoteca/madonna-foligno.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Coronation of the Virgin",
+          "artist": "Raphael",
+          "date": "1502–1504",
+          "medium": "Oil on canvas transferred from wood",
+          "description": "Christ crowns the Virgin Mary in a celestial mandorla, surrounded by angels — an early Raphael masterpiece from his Florentine period.",
+          "location": "Room VIII",
+          "image": "assets/images/pinacoteca/coronation.jpg",
+          "highlight": false
+        },
+        {
+          "title": "St. Jerome in the Wilderness",
+          "artist": "Leonardo da Vinci",
+          "date": "1480–1482",
+          "medium": "Oil on wood, unfinished",
+          "description": "The only Leonardo in Rome — an unfinished panel revealing his working method. A gaunt, kneeling Jerome beating his chest with a stone, lion at his feet, underdrawing visible.",
+          "location": "Room IX",
+          "image": "assets/images/pinacoteca/leonardo.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Lamentation over the Dead Christ",
+          "artist": "Giovanni Bellini",
+          "date": "c. 1500",
+          "medium": "Oil on wood",
+          "description": "Venetian colorism in a Pietà — the cimasa of the Pesaro Altarpiece, showing Christ's body mourned by the Virgin and St. John.",
+          "location": "Room IX",
+          "image": "assets/images/pinacoteca/bellini.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Creator on the Rainbow amid Angels",
+          "artist": "Antonio da Correggio",
+          "date": "c. 1505",
+          "medium": "Oil on canvas",
+          "description": "God the Father on a rainbow amid angels — from the Triptych of Humanity, showing Correggio's early mastery of soft color and light.",
+          "location": "Room IX",
+          "image": "assets/images/pinacoteca/correggio.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Madonna and Child in Glory with Saints",
+          "artist": "Titian (Tiziano Vecellio)",
+          "date": "c. 1530",
+          "medium": "Oil on wood",
+          "description": "Venetian colorism at its summit — a vibrant altarpiece with the Madonna in glory above and saints below.",
+          "location": "Room X",
+          "image": "assets/images/pinacoteca/titian.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Madonna of the Cherries",
+          "artist": "Federico Barocci",
+          "date": "c. 1590",
+          "medium": "Oil on canvas",
+          "description": "Late Renaissance tenderness and chromatic warmth — the Madonna offers cherries to the Christ Child.",
+          "location": "Room XI",
+          "image": "assets/images/pinacoteca/barocci.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Deposition (Entombment of Christ)",
+          "artist": "Caravaggio",
+          "date": "1603–1604",
+          "medium": "Oil on canvas, 300 x 205 cm",
+          "description": "Christ lowered onto a marble slab that juts into the viewer's space; harsh light, straining hands, the diagonal uniting altar and tomb. Defined Baroque naturalism. Commissioned for the church of Santa Maria in Vallicella.",
+          "location": "Room XII",
+          "image": "assets/images/pinacoteca/caravaggio.jpg",
+          "highlight": true
+        },
+        {
+          "title": "The Martyrdom of Saint Erasmus",
+          "artist": "Nicolas Poussin",
+          "date": "1628–1629",
+          "medium": "Oil on canvas",
+          "description": "The brutal martyrdom of St. Erasmus, wound on a windlass — Poussin's classical French Baroque at its most disciplined and dramatic.",
+          "location": "Room XII",
+          "image": "assets/images/pinacoteca/poussin.jpg",
+          "highlight": false
+        },
+        {
+          "title": "The Last Communion of Saint Jerome",
+          "artist": "Domenichino",
+          "date": "1614",
+          "medium": "Oil on canvas",
+          "description": "St. Jerome receiving the Eucharist on his deathbed — a Baroque masterpiece of devotional intensity and dramatic lighting.",
+          "location": "Room XII",
+          "image": "assets/images/pinacoteca/domenichino.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Models for St. Peter's Chair (Cathedra Petri)",
+          "artist": "Gian Lorenzo Bernini",
+          "date": "c. 1657–1666",
+          "medium": "Terracotta/bozzetti",
+          "description": "Terracotta models and bozzetti for Bernini's great bronze Cathedra Petri in the apse of St. Peter's Basilica — showing his creative process.",
+          "location": "Room XIII",
+          "image": "assets/images/pinacoteca/bernini.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Portrait of George IV of England",
+          "artist": "Thomas Lawrence",
+          "date": "1821",
+          "medium": "Oil on canvas",
+          "description": "Elegant Regency state portrait of George IV, showing Lawrence's mastery of aristocratic portraiture.",
+          "location": "Room XV",
+          "image": "assets/images/pinacoteca/lawrence.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Crucifixion of Saint Peter",
+          "artist": "Guido Reni",
+          "date": "c. 1605",
+          "medium": "Oil on canvas",
+          "description": "St. Peter crucified upside down — Reni's classical Baroque composition of dramatic simplicity.",
+          "location": "Room XII",
+          "image": "assets/images/pinacoteca/reni.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Saint Matthew and the Angel",
+          "artist": "Guido Reni",
+          "date": "c. 1635",
+          "medium": "Oil on canvas",
+          "description": "The evangelist Matthew with his angel — a Reni masterpiece combining grace and Baroque dynamism.",
+          "location": "Room XII",
+          "image": "assets/images/pinacoteca/reni-matthew.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "appartamento-borgia",
+      "name": "Appartamento Borgia (Borgia Apartment)",
+      "italian_name": "Borgia Apartment",
+      "description": "Pope Alexander VI (Rodrigo Borgia) commissioned Pinturicchio to decorate his private apartments 1492–1494. Six monumental rooms with lavish stucco, gilded panels, and esoteric iconography. Now houses the Collection of Modern and Contemporary Art.",
+      "period": "1492–1494",
+      "room_number": 11,
+      "artworks": [
+        {
+          "title": "Room of the Liberal Arts",
+          "artist": "Pinturicchio (Bernardino di Betto)",
+          "date": "1492–1494",
+          "medium": "Fresco with stucco and gilt",
+          "description": "Grammar, Rhetoric, Logic (Trivium); Geometry, Arithmetic, Music, Astronomy (Quadrivium) — celestial women personifying the liberal arts with their patrons. Ceiling with Borgia heraldry (bull, double crown).",
+          "location": "Room of the Liberal Arts",
+          "image": "assets/images/modern/liberal-arts.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Room of the Saints",
+          "artist": "Pinturicchio",
+          "date": "1492–1494",
+          "medium": "Fresco",
+          "description": "St. Elizabeth, St. Anthony Abbot & St. Paul the Hermit, St. Catherine's Disputation, St. Barbara, St. Susanna, St. Sebastian; ceiling with the Isis-Osiris myth. Recognized as a Pinturicchio masterpiece; tondo of the Madonna and Child said to portray Giulia Farnese.",
+          "location": "Room of the Saints",
+          "image": "assets/images/modern/saints.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Room of the Mysteries",
+          "artist": "Pinturicchio",
+          "date": "1492–1494",
+          "medium": "Fresco",
+          "description": "Annunciation, Nativity, Adoration of the Magi, Resurrection, Ascension, Pentecost, Assumption. Alexander VI kneels at Christ's feet in the Resurrection. Believed to be the earliest European depiction of Native Americans.",
+          "location": "Room of the Mysteries",
+          "image": "assets/images/modern/mysteries.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Room of the Sibyls",
+          "artist": "Pinturicchio",
+          "date": "1492–1494",
+          "medium": "Fresco",
+          "description": "Twelve sibyls paired with Old Testament prophets on deep blue ground; scrolls foretelling Christ; astrological/planetary program.",
+          "location": "Room of the Sibyls",
+          "image": "assets/images/modern/sibyls.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Room of the Creed",
+          "artist": "Pinturicchio",
+          "date": "1492–1494",
+          "medium": "Fresco",
+          "description": "The 12 Apostles paired with Old Testament prophets, reciting the verses of the Apostle's Creed on scrolls — a bridge between Old and New Testament material.",
+          "location": "Room of the Credo",
+          "image": "assets/images/modern/creed.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Room of the Pontiffs",
+          "artist": "Pinturicchio",
+          "date": "1492–1494",
+          "medium": "Fresco",
+          "description": "Papal portraits in lunettes — the oldest wing, with portraits from Nicholas III onward.",
+          "location": "Room of the Pontiffs",
+          "image": "assets/images/modern/pontiffs.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "arte-moderna",
+      "name": "Collezione d'Arte Moderna e Contemporanea",
+      "italian_name": "Modern and Contemporary Art Collection",
+      "description": "Inaugurated 23 June 1973 by Paul VI, following his 1964 address calling for renewed dialogue between the Church and contemporary art. Approximately 8,000 works by 250 artists in 55 rooms along the Borgia Apartment.",
+      "period": "19th–21st Century",
+      "room_number": 11,
+      "artworks": [
+        {
+          "title": "Pietà (after Delacroix)",
+          "artist": "Vincent van Gogh",
+          "date": "c. 1890",
+          "medium": "Oil on canvas",
+          "description": "Painted months before his suicide; the lifeless Christ possibly a self-portrait. Van Gogh's masterpiece in the Vatican — one of his last works.",
+          "location": "Room 2",
+          "image": "assets/images/modern/vangogh.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Le Christ et le peintre",
+          "artist": "Marc Chagall",
+          "date": "c. 1955–1960",
+          "medium": "Oil on canvas",
+          "description": "Chagall's dreamlike iconographic universe applied to religious subjects — Christ as painter, a self-referential meditation on art and faith.",
+          "location": "Room 19",
+          "image": "assets/images/modern/chagall.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Matisse Room — Vence Chapel Preparatory Drawings",
+          "artist": "Henri Matisse",
+          "date": "1947–1951",
+          "medium": "Charcoal on paper (full-scale)",
+          "description": "Full-scale preparatory drawings (over 5 meters high) for the Vence Chapel stained glass, plus drawing of the Virgin and Child, bronze altar cross, silk chasubles. The complete creative genesis of Matisse's only religious building. Donated by his son Pierre in 1980.",
+          "location": "Matisse Room",
+          "image": "assets/images/modern/matisse.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Study for Velazquez Pope II",
+          "artist": "Francis Bacon",
+          "date": "c. 1951",
+          "medium": "Oil on canvas",
+          "description": "After Velazquez's Portrait of Innocent X — Bacon's screaming pope, one of the most powerful images of existential anguish in modern art.",
+          "location": "Modern Art collection",
+          "image": "assets/images/modern/bacon.jpg",
+          "highlight": true
+        },
+        {
+          "title": "L'Annuncio",
+          "artist": "Salvador Dali",
+          "date": "c. 1950",
+          "medium": "Oil on canvas",
+          "description": "Surrealist Annunciation — Dali's distinctive blend of religious iconography and dream imagery.",
+          "location": "Modern Art collection",
+          "image": "assets/images/modern/dali.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Le figlie di Loth III",
+          "artist": "Carlo Carra",
+          "date": "c. 1920",
+          "medium": "Oil on canvas",
+          "description": "The daughters of Lot — Carrà's Metaphysical treatment of the biblical subject.",
+          "location": "Modern Art collection",
+          "image": "assets/images/modern/carra.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Aetas Aurea",
+          "artist": "Medardo Rosso",
+          "date": "c. 1890",
+          "medium": "Wax",
+          "description": "Delicate wax sculpture by the Italian Impressionist sculptor, capturing light and form in a unique medium.",
+          "location": "Room 2",
+          "image": "assets/images/modern/rosso.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Wooden Bas-relief (from Tahiti)",
+          "artist": "Paul Gauguin",
+          "date": "c. 1891–1893",
+          "medium": "Wood",
+          "description": "Rare sculptural work probably from Gauguin's first Tahiti stay — the artist's Polynesian influence translated into wood.",
+          "location": "Room 2",
+          "image": "assets/images/modern/gauguin.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Cavaliere",
+          "artist": "Marino Marini",
+          "date": "c. 1950",
+          "medium": "Bronze",
+          "description": "The horse and rider theme — Marini's iconic modern sculpture of the equestrian figure.",
+          "location": "Modern Art collection",
+          "image": "assets/images/modern/marini.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Catrame II",
+          "artist": "Alberto Burri",
+          "date": "c. 1958",
+          "medium": "Mixed media (tar, burlap, wood)",
+          "description": "Part of Burri's revolutionary 'Catrame' (tar) series — using industrial materials to create abstract surfaces of profound depth.",
+          "location": "Modern Art collection",
+          "image": "assets/images/modern/burri.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Christ and the Fisherman",
+          "artist": "Marc Chagall",
+          "date": "c. 1950",
+          "medium": "Oil on canvas",
+          "description": "Another Chagall religious work showing Christ with a fisherman, blending the sacred and the everyday.",
+          "location": "Room 19",
+          "image": "assets/images/modern/chagall-fisherman.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "sfera-con-sfera",
+      "name": "Sfera con Sfera (Sphere Within Sphere)",
+      "italian_name": "Sphere Within Sphere",
+      "description": "Arnaldo Pomodoro's masterpiece in the Cortile della Pigna — a large sphere fissured to reveal a complex inner world. Donated by the artist in 1990.",
+      "period": "1990",
+      "room_number": "Cortile della Pigna",
+      "artworks": [
+        {
+          "title": "Sfera con Sfera",
+          "artist": "Arnaldo Pomodoro",
+          "date": "1990",
+          "medium": "Polished bronze, diameter 4 m, weight ~4 tons",
+          "description": "A large sphere fissured to reveal a complex inner world of gears and mechanical forms; can rotate on a ball-bearing mechanism. Metaphor: the tension between exterior perfection and interior complexity; 'spirit and matter'; a 'wounded planet.' Sister spheres exist worldwide (UN Headquarters, Trinity College Dublin).",
+          "location": "Cortile della Pigna",
+          "image": "assets/images/sculpture/sphere.jpg",
+          "highlight": true
+        }
+      ]
+    },
+    {
+      "id": "bramante-staircase",
+      "name": "Bramante (Momo) Staircase",
+      "italian_name": "Scala del Momo",
+      "description": "Giuseppe Momo's 1932 double-helix spiral staircase — the exit route for all visitors. Two separate ramps so ascending and descending visitors never cross.",
+      "period": "1932",
+      "room_number": "Exit",
+      "artworks": [
+        {
+          "title": "Bramante Staircase (Double Helix)",
+          "artist": "Giuseppe Momo",
+          "date": "1929–1932",
+          "medium": "Metal and stone, conical geometry",
+          "description": "A double helix — two separate ramps so ascending and descending visitors never cross. Encircles a ~15 meter diameter stairwell with a clear central void. Shallow incline (stepped ramp, not a true staircase); ornately worked metal balustrade. All visitors exit via this route. Often compared to Frank Lloyd Wright's Guggenheim (20 years earlier).",
+          "location": "Exit (end of visitor route)",
+          "image": "assets/images/galleries/staircase.jpg",
+          "highlight": true
+        },
+        {
+          "title": "Original Bramante Staircase",
+          "artist": "Donato Bramante",
+          "date": "1505",
+          "medium": "Stone",
+          "description": "The original double spiral in a square tower by Donato Bramante, inside the Pio-Clementino Museum.",
+          "location": "Pio-Clementino Museum",
+          "image": "assets/images/galleries/bramante-original.jpg",
+          "highlight": false
+        }
+      ]
+    },
+    {
+      "id": "cappella-niccolina",
+      "name": "Cappella Niccolina (Niccoline Chapel)",
+      "italian_name": "Niccoline Chapel",
+      "description": "Fra Angelico's fresco cycle (1447–1449) for Pope Nicholas V — the earliest complete fresco cycle in the Vatican, predating the Sistine Chapel by decades.",
+      "period": "1447–1449",
+      "room_number": "Vatican Palace",
+      "artworks": [
+        {
+          "title": "Scenes from the Life of St. Stephen",
+          "artist": "Fra Angelico",
+          "date": "1447–1449",
+          "medium": "Fresco",
+          "description": "The chapel's fresco cycle depicts the life of the first Christian martyr, St. Stephen, with luminous colors and delicate compositions.",
+          "location": "Niccoline Chapel",
+          "image": "assets/images/sistine/niccolina-stephen.jpg",
+          "highlight": false
+        },
+        {
+          "title": "Scenes from the Life of St. Lawrence",
+          "artist": "Fra Angelico",
+          "date": "1447–1449",
+          "medium": "Fresco",
+          "description": "The life of St. Lawrence, deacon and martyr, depicted with Fra Angelico's characteristic grace and luminous color.",
+          "location": "Niccoline Chapel",
+          "image": "assets/images/sistine/niccolina-lawrence.jpg",
+          "highlight": false
+        }
+      ]
+    }
+  ]
+}

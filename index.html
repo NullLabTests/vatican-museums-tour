@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vatican Museums — A Complete Walking Tour</title>
+  <meta name="description" content="A comprehensive digital walking-tour guide to the Vatican Museums. Every room, every artwork, maps, history, and visitor info.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <nav>
+    <div class="container">
+      <a href="#" class="logo">Vatican Museums Tour</a>
+      <ul>
+        <li><a href="#map">Map</a></li>
+        <li><a href="#route">Route</a></li>
+        <li><a href="#collections">Collections</a></li>
+        <li><a href="#visitor-info">Visitor Info</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Vatican Museums</h1>
+      <p>A complete walking tour through the greatest collection of art and antiquity ever assembled under one roof — from Egyptian mummies to Michelangelo's ceiling.</p>
+      <a href="#route" class="btn">Begin the Tour</a>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <div class="num">70,000+</div>
+          <div class="label">Works in Collection</div>
+        </div>
+        <div class="hero-stat">
+          <div class="num">20,000</div>
+          <div class="label">On Display</div>
+        </div>
+        <div class="hero-stat">
+          <div class="num">54</div>
+          <div class="label">Galleries</div>
+        </div>
+        <div class="hero-stat">
+          <div class="num">6.8M</div>
+          <div class="label">Visitors (2024)</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="map-section" id="map">
+    <div class="container">
+      <h2>Museum Map</h2>
+      <p class="subtitle">The Vatican Museums wrap around the Cortile del Belvedere. Click any room to jump to its collection.</p>
+      <div class="map-container">
+        <svg class="map-svg" viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="roomGrad" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0%" stop-color="#2a2a30"/>
+              <stop offset="100%" stop-color="#1f1f24"/>
+            </linearGradient>
+          </defs>
+
+          <rect x="0" y="0" width="900" height="500" rx="12" fill="#1a1a1f" stroke="#333" stroke-width="1"/>
+
+          <text x="450" y="35" text-anchor="middle" fill="#c9a84c" font-family="Georgia, serif" font-size="18" font-weight="bold">VATICAN MUSEUMS — FLOOR PLAN</text>
+          <text x="450" y="55" text-anchor="middle" fill="#b8b4af" font-size="12">Ground &amp; Second Floor Overview</text>
+
+          <g class="room" data-room="museo-gregoriano-egizio" onclick="scrollToCollection('museo-gregoriano-egizio')">
+            <rect x="40" y="90" width="120" height="80" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="1.5"/>
+            <text class="room-num" x="100" y="120">1</text>
+            <text class="room-label" x="100" y="140">Egyptian</text>
+            <text class="room-label" x="100" y="155" font-size="10">Museum</text>
+          </g>
+
+          <g class="room" data-room="museo-chiaramonti" onclick="scrollToCollection('museo-chiaramonti')">
+            <rect x="180" y="90" width="120" height="80" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="1.5"/>
+            <text class="room-num" x="240" y="120">2</text>
+            <text class="room-label" x="240" y="140">Chiaramonti</text>
+            <text class="room-label" x="240" y="155" font-size="10">Museum</text>
+          </g>
+
+          <g class="room" data-room="braccio-nuovo" onclick="scrollToCollection('braccio-nuovo')">
+            <rect x="320" y="90" width="100" height="80" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="1.5"/>
+            <text class="room-num" x="370" y="120">3</text>
+            <text class="room-label" x="370" y="140">Braccio</text>
+            <text class="room-label" x="370" y="155" font-size="10">Nuovo</text>
+          </g>
+
+          <g class="room" data-room="museo-pio-clementino" onclick="scrollToCollection('museo-pio-clementino')">
+            <rect x="440" y="90" width="140" height="80" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="2"/>
+            <text class="room-num" x="510" y="120">4</text>
+            <text class="room-label" x="510" y="140">Pio-Clementino</text>
+            <text class="room-label" x="510" y="155" font-size="10">Museum</text>
+          </g>
+
+          <g class="room" data-room="museo-gregoriano-etrusco" onclick="scrollToCollection('museo-gregoriano-etrusco')">
+            <rect x="40" y="220" width="120" height="80" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="1.5"/>
+            <text class="room-num" x="100" y="250">5</text>
+            <text class="room-label" x="100" y="270">Etruscan</text>
+            <text class="room-label" x="100" y="285" font-size="10">Museum</text>
+          </g>
+
+          <g class="room" data-room="galleria-candelabri" onclick="scrollToCollection('galleria-candelabri')">
+            <rect x="180" y="220" width="120" height="80" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="1.5"/>
+            <text class="room-num" x="240" y="250">6</text>
+            <text class="room-label" x="240" y="270">Gallery of</text>
+            <text class="room-label" x="240" y="285" font-size="10">Candelabra</text>
+          </g>
+
+          <g class="room" data-room="galleria-arazzi" onclick="scrollToCollection('galleria-arazzi')">
+            <rect x="320" y="220" width="100" height="80" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="1.5"/>
+            <text class="room-num" x="370" y="250">7</text>
+            <text class="room-label" x="370" y="270">Gallery of</text>
+            <text class="room-label" x="370" y="285" font-size="10">Tapestries</text>
+          </g>
+
+          <g class="room" data-room="galleria-carte-geografiche" onclick="scrollToCollection('galleria-carte-geografiche')">
+            <rect x="440" y="220" width="140" height="80" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="1.5"/>
+            <text class="room-num" x="510" y="250">8</text>
+            <text class="room-label" x="510" y="270">Gallery of</text>
+            <text class="room-label" x="510" y="285" font-size="10">Maps</text>
+          </g>
+
+          <g class="room" data-room="appartamento-borgia" onclick="scrollToCollection('appartamento-borgia')">
+            <rect x="40" y="340" width="120" height="80" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="1.5"/>
+            <text class="room-num" x="100" y="370">11</text>
+            <text class="room-label" x="100" y="390">Borgia Apt</text>
+            <text class="room-label" x="100" y="405" font-size="10">+ Modern Art</text>
+          </g>
+
+          <g class="room" data-room="sistine-chapel" onclick="scrollToCollection('sistine-chapel')">
+            <rect x="180" y="340" width="180" height="80" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="2"/>
+            <text class="room-num" x="270" y="370">12</text>
+            <text class="room-label" x="270" y="390">Sistine Chapel</text>
+            <text class="room-label" x="270" y="405" font-size="10">THE HIGHLIGHT</text>
+          </g>
+
+          <g class="room" data-room="stanze-raffaello" onclick="scrollToCollection('stanze-raffaello')">
+            <rect x="380" y="340" width="140" height="80" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="2"/>
+            <text class="room-num" x="450" y="370">10</text>
+            <text class="room-label" x="450" y="390">Raphael</text>
+            <text class="room-label" x="450" y="405" font-size="10">Rooms</text>
+          </g>
+
+          <g class="room" data-room="pinacoteca-vaticana" onclick="scrollToCollection('pinacoteca-vaticana')">
+            <rect x="40" y="450" width="120" height="40" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="1.5"/>
+            <text class="room-num" x="100" y="468">19</text>
+            <text class="room-label" x="100" y="482" font-size="9">Pinacoteca</text>
+          </g>
+
+          <g class="room" data-room="sfera-con-sfera" onclick="scrollToCollection('sfera-con-sfera')">
+            <rect x="560" y="90" width="100" height="80" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="1.5"/>
+            <text class="room-num" x="610" y="120">CP</text>
+            <text class="room-label" x="610" y="140">Cortile della</text>
+            <text class="room-label" x="610" y="155" font-size="10">Pigna</text>
+          </g>
+
+          <g class="room" data-room="bramante-staircase" onclick="scrollToCollection('bramante-staircase')">
+            <rect x="560" y="340" width="100" height="80" rx="6" fill="url(#roomGrad)" stroke="#c9a84c" stroke-width="1.5"/>
+            <text class="room-num" x="610" y="370">EXIT</text>
+            <text class="room-label" x="610" y="390">Momo</text>
+            <text class="room-label" x="610" y="405" font-size="10">Staircase</text>
+          </g>
+
+          <line class="corridor" x1="160" y1="130" x2="180" y2="130"/>
+          <line class="corridor" x1="300" y1="130" x2="320" y2="130"/>
+          <line class="corridor" x1="420" y1="130" x2="440" y2="130"/>
+          <line class="corridor" x1="580" y1="130" x2="580" y2="220"/>
+          <line class="corridor" x1="580" y1="300" x2="580" y2="340"/>
+          <line class="corridor" x1="160" y1="260" x2="180" y2="260"/>
+          <line class="corridor" x1="300" y1="260" x2="320" y2="260"/>
+          <line class="corridor" x1="420" y1="260" x2="440" y2="260"/>
+          <line class="corridor" x1="160" y1="380" x2="180" y2="380"/>
+          <line class="corridor" x1="360" y1="380" x2="380" y2="380"/>
+          <line class="corridor" x1="520" y1="380" x2="560" y2="380"/>
+
+          <text x="450" y="490" text-anchor="middle" fill="#666" font-size="10">Click a room to explore its collection</text>
+        </svg>
+      </div>
+    </div>
+  </section>
+
+  <section class="route-section" id="route">
+    <div class="container">
+      <h2>The Visitor Route</h2>
+      <p class="subtitle">Follow the standard path through the Vatican Museums — designed to culminate at the Sistine Chapel.</p>
+      <div class="timeline" id="timeline-container"></div>
+    </div>
+  </section>
+
+  <section id="collections">
+    <div class="search-bar" style="padding-top: 3rem;">
+      <input type="text" id="search-input" placeholder="Search artworks by title, artist, or keyword...">
+      <button onclick="filterArtworks()">Search</button>
+    </div>
+    <div id="collections-container"></div>
+  </section>
+
+  <section class="info-section" id="visitor-info">
+    <div class="container">
+      <h2>Visitor Information</h2>
+      <div class="info-grid">
+        <div class="info-card">
+          <h3>Opening Hours (2026)</h3>
+          <table>
+            <tr><td>Mon–Sat</td><td>08:00–20:00</td></tr>
+            <tr><td>Last Sunday (free)</td><td>09:00–14:00</td></tr>
+            <tr><td>Other Sundays</td><td>Closed</td></tr>
+          </table>
+        </div>
+        <div class="info-card">
+          <h3>Tickets (2026)</h3>
+          <table>
+            <tr><td>Full price</td><td>€20 / €25 online</td></tr>
+            <tr><td>Reduced (7–18, students)</td><td>€10 / €15 online</td></tr>
+            <tr><td>School groups</td><td>€5 / €7 online</td></tr>
+            <tr><td>Under 7</td><td>Free</td></tr>
+            <tr><td>Last Sunday</td><td>Free</td></tr>
+          </table>
+        </div>
+        <div class="info-card">
+          <h3>Essential Tips</h3>
+          <ul>
+            <li>Book online to skip the line (tickets.museivaticani.va)</li>
+            <li>Arrive early — crowds peak after 10am</li>
+            <li>No flash photography; Sistine Chapel is strict</li>
+            <li>Silence enforced in the Sistine Chapel</li>
+            <li>Allow 3–4 hours minimum for the full route</li>
+            <li>The Sistine Chapel is the last room — no side exit</li>
+          </ul>
+        </div>
+        <div class="info-card">
+          <h3>Free Sundays 2026</h3>
+          <ul>
+            <li>Jan 25, Feb 22, Mar 29, Apr 26</li>
+            <li>May 31, Jun 28, Jul 26, Aug 30</li>
+            <li>Sep 27, Oct 25, Nov 29, Dec 27</li>
+            <li>Free entry 09:00–14:00 (last entry 12:30)</li>
+            <li>No online booking for free Sundays</li>
+          </ul>
+        </div>
+        <div class="info-card">
+          <h3>Facilities</h3>
+          <ul>
+            <li>Cloakroom and luggage storage</li>
+            <li>Cafeteria and bistrot</li>
+            <li>Bookshop and Vatican Post Office</li>
+            <li>First aid station</li>
+            <li>Elevators and wheelchair ramps</li>
+            <li>Audio guides available (+€8)</li>
+          </ul>
+        </div>
+        <div class="info-card">
+          <h3>Getting There</h3>
+          <ul>
+            <li>Metro: Ottaviano (Line A)</li>
+            <li>Bus: 40, 64, 49, 62, 23</li>
+            <li>Address: Viale Vaticano 6, 00192 Roma</li>
+            <li>Security check required at entrance</li>
+            <li>No large bags or liquids allowed</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>Vatican Museums — A Complete Walking Tour</p>
+      <p>Data compiled from the official Vatican Museums website, Wikipedia, and art-historical references.</p>
+      <p>Artwork images from Wikimedia Commons. Licensed under CC BY-SA 4.0.</p>
+      <p><a href="https://github.com/NullLabTests/vatican-museums-tour">GitHub Repository</a></p>
+    </div>
+  </footer>
+
+  <button class="back-to-top" id="back-to-top" onclick="window.scrollTo({top:0,behavior:'smooth'})">&#8593;</button>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
